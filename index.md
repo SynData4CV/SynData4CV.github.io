@@ -191,7 +191,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   <!-- Organizer 5 -->
   <div style="width:45%; margin: 1%;">
     <a href="https://shen2347.github.io/">
-      <img alt="Weikai Huang" src="pics/organizers/weikaihuang.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
+      <img alt="Weikai Huang" src="pics/organizers/weikaihuang.png" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
     </a><br>
     <a href="https://shen2347.github.io/">Weikai Huang</a><br>
     University of Washington
@@ -211,7 +211,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   <!-- Organizer 7 -->
   <div style="width:45%; margin: 1%;">
     <a href="https://web.mit.edu/phillipi/">
-      <img alt="Phillip Isola" src="pics/organizers/phillipisola.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
+      <img alt="Phillip Isola" src="pics/organizers/phillipisola.jpg" height="300" width="300" style="border-radius: 50%; object-fit: cover;">
     </a><br>
     <a href="https://web.mit.edu/phillipi/">Phillip Isola</a><br>
     Massachusetts Institute of Technology
