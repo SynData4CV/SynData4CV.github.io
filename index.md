@@ -296,7 +296,7 @@ Towards building a community of accessibility research in computer vision confer
 <br>-->
 
 
-## Challenge Organization
+<!-- ## Challenge Organization
 
 <div style="display: flex">
   <div style="width:22.5%">
@@ -318,14 +318,14 @@ Towards building a community of accessibility research in computer vision confer
     Boston University
   </div>
 
-</div>
+</div> -->
 
   
 
 
 
 
-## Challenge
+<!-- ## Challenge
 
 <div style="text-align: justify">
   
@@ -352,7 +352,7 @@ Towards building a community of accessibility research in computer vision confer
   <br>
   The team with the top performing submission will be invited to give short talks during the workshop and will receive a financial award of <b>$500</b> and an <a href="https://store.opencv.ai/products/oak-d">OAK—D camera</a> (We thank the National Science Foundation, US Department of Transportation's Inclusive Design Challenge and Intel for their support for these awards) 
   <br><br>
-</div>
+</div> -->
 
  
   
