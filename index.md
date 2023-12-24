@@ -95,7 +95,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 
 
 ## Organizers
-<div style="display: flex">
+<!-- <div style="display: flex">
   <div style="width:22.5%">
     <a href="https://eshed1.github.io/">
     <img alt="Eshed Ohn-Bar" src="pics/eshed_ohn_bar.jpg" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
@@ -146,6 +146,82 @@ The overarching goal of this workshop is to gather researchers, students, and ad
     </a><br>
   <a href="http://www.cs.cmu.edu/~kkitani/">Kris Kitani</a><br>
     Carnegie Mellon University
+  </div>
+
+</div> -->
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+  
+  <!-- Organizer 1 -->
+  <div style="width:45%; margin: 1%;">
+    <a href="placeholder-link-for-jieyu-zhang">
+      <img alt="Jieyu Zhang" src="placeholder-image.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
+    </a><br>
+    <a href="placeholder-link-for-jieyu-zhang">Jieyu Zhang</a><br>
+    Placeholder Institute
+  </div>
+
+  <!-- Organizer 2 -->
+  <div style="width:45%; margin: 1%;">
+    <a href="placeholder-link-for-cheng-yu-hsieh">
+      <img alt="Cheng-Yu Hsieh" src="placeholder-image.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
+    </a><br>
+    <a href="placeholder-link-for-cheng-yu-hsieh">Cheng-Yu Hsieh</a><br>
+    Placeholder Institute
+  </div>
+
+  <!-- Organizer 3 -->
+  <div style="width:45%; margin: 1%;">
+    <a href="placeholder-link-for-zixian-ma">
+      <img alt="Zixian Ma" src="placeholder-image.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
+    </a><br>
+    <a href="placeholder-link-for-zixian-ma">Zixian Ma</a><br>
+    Placeholder Institute
+  </div>
+
+  <!-- Organizer 4 -->
+  <div style="width:45%; margin: 1%;">
+    <a href="placeholder-link-for-shobhita-sundaram">
+      <img alt="Shobhita Sundaram" src="placeholder-image.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
+    </a><br>
+    <a href="placeholder-link-for-shobhita-sundaram">Shobhita Sundaram</a><br>
+    Placeholder Institute
+  </div>
+
+  <!-- Organizer 5 -->
+  <div style="width:45%; margin: 1%;">
+    <a href="placeholder-link-for-wei-chiu-ma">
+      <img alt="Wei-Chiu Ma" src="placeholder-image.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
+    </a><br>
+    <a href="placeholder-link-for-wei-chiu-ma">Wei-Chiu Ma</a><br>
+    Placeholder Institute
+  </div>
+
+  <!-- Organizer 6 -->
+  <div style="width:45%; margin: 1%;">
+    <a href="placeholder-link-for-weikai-huang">
+      <img alt="Weikai Huang" src="placeholder-image.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
+    </a><br>
+    <a href="placeholder-link-for-weikai-huang">Weikai Huang</a><br>
+    Placeholder Institute
+  </div>
+
+  <!-- Organizer 7 -->
+  <div style="width:45%; margin: 1%;">
+    <a href="placeholder-link-for-phillip-isola">
+      <img alt="Phillip Isola" src="placeholder-image.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
+    </a><br>
+    <a href="placeholder-link-for-phillip-isola">Phillip Isola</a><br>
+    Placeholder Institute
+  </div>
+
+  <!-- Organizer 8 -->
+  <div style="width:45%; margin: 1%;">
+    <a href="placeholder-link-for-ranjay-krishna">
+      <img alt="Ranjay Krishna" src="placeholder-image.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
+    </a><br>
+    <a href="placeholder-link-for-ranjay-krishna">Ranjay Krishna</a><br>
+    Placeholder Institute
   </div>
 
 </div>
