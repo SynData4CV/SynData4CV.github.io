@@ -11,11 +11,13 @@ layout: default
 
 # Overview
 <div style="text-align: justify">
-The overarching goal of this workshop is to gather researchers, students, and advocates who work at the intersection of accessibility, computer vision, and autonomous systems. We plan to use the workshop to identify challenges and pursue solutions for the current lack of shared and principled development tools for data-driven vision-based accessibility systems. For instance, there is a general lack of vision-based benchmarks and methods relevant to accessibility (e.g., people with disabilities and mobility aids are currently mostly absent from large-scale datasets in pedestrian detection). Our workshop will provide a unique opportunity for fostering a mutual discussion between accessibility, computer vision, and robotics researchers and practitioners.
+The workshop aims to explore the use of synthetic data in training and evaluating computer vision models, as well as in other related domains. During the last decade, advancements in computer vision were catalyzed by the release of painstakingly curated human-labeled datasets. Recently, people have increasingly resorted to synthetic data as an alternative to laborintensive human-labeled datasets for its scalability, customizability, and costeffectiveness. Synthetic data offers the potential to generate large volumes of diverse and high-quality vision data, tailored to specific scenarios and edge cases that are hard to capture in real-world data. However, challenges such as the domain gap between synthetic and real-world data, potential biases in synthetic generation, and ensuring the generalizability of models trained on synthetic data remain. We hope the workshop can provide a forum to discuss and encourage further exploration in these areas.
+
+
 </div>
 
 # Invited Speakers
-<div style="display: flex">
+<!-- <div style="display: flex">
   <div style="width:22.5%">
     <a href="https://cvhci.anthropomatik.kit.edu/">
     <img alt="Rainer Stiefelhagen" src="pics/rainer.png" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
@@ -59,10 +61,11 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   </div>
   
 
-</div>
+</div> -->
+- TBD
 
 ## Schedule
-<table>
+<!-- <table>
   <tr><td>Times (PST)</td><td> </td></tr>
   <tr><td>13:00</td><td>Opening Remarks</td></tr>
   <tr><td>13:10-13:40</td><td>Rainer Stiefelhagen</td></tr>
@@ -74,11 +77,12 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   <tr><td>15:45-16:15</td><td>Smit Patel</td></tr>
   <tr><td>16:15-16:45</td><td>Richard Ladner, "Including Accessibility and Disability in an Undergraduate CV Course"</td></tr>
   <tr><td>16:45-17:30</td><td>Concluding Remarks, Poster Session #2</td></tr>
-</table>
+</table> -->
+- TBD
   
-## Abstracts
+## Accepted Papers
 
-<table>
+<!-- <table>
   <tr><td><a href="https://drive.google.com/file/d/1T6tTbxGM2OgYzb1anZhHlQ3mrPpRFKqR/view?usp=sharing">"Cascaded Training Strategy for CVPR2023 Synthetic Instance Segmentation"</a>. Runze Zhang, Xiaochuan Li, Baoyu Fan, Zhenhua Guo, Yaqian Zhao, Rengang Li</td></tr>
   <tr><td><a href="https://drive.google.com/file/d/14ShWx1XljemvIpIDI6341s2MpTMNsd_X/view?usp=sharing">"Non-Hierarchical Transformers for Pedestrian Segmentation"</a>. Amani Kiruga, Xi Peng</td></tr>
   <tr><td><a href="https://drive.google.com/file/d/1okBN8qofg6i-5iu22PzBrxECBBUX661B/view?usp=sharing">"MultiHead Attention Mask-RCNN for AVA Instance Segmentation"</a>. Aarti Balana</td></tr>
@@ -91,7 +95,8 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   <tr><td><a href="https://drive.google.com/file/d/122wAn_IdZL5KoyjkCsBg7IxtOLIGz7jR/view?usp=sharing">"Slovo: Russian Sign Language Dataset"</a>. Alexander Kapitanov</td></tr>
   <tr><td><a href="https://drive.google.com/file/d/1t_BpByMpW5PnLHCI4LtmXXdwq-u19g-x/view?usp=sharing">"X-World: Accessibility, Vision, and Autonomy Meet"</a>, Jimuyang Zhang<sup>*</sup>, Minglan Zheng<sup>*</sup>, Matthew Boyd, Eshed Ohn-Bar</td></tr>
   <tr><td><a href="https://drive.google.com/file/d/1eCd7wQrKpItxhDEUIjrJkmgtFAS5VZrB/view?usp=sharing">"ASSISTER: Assistive Navigation via Conditional Instruction Generation"</a>. Zanming Huang<sup>*</sup>, Zhongkai Shangguan<sup>*</sup>, Jimuyang Zhang, Gilad Bar, Matthew Boyd, and Eshed Ohn-Bar</td></tr>
-</table>
+</table> -->
+- TBD
 
 
 
@@ -284,7 +289,7 @@ Towards building a community of accessibility research in computer vision confer
   
 ## Call for Papers
 
-<div style="text-align: justify">
+<!-- <div style="text-align: justify">
 We encourage submission of relevant research (including work in progress, novel perspectives, formative studies, benchmarks, methods) as extended abstracts for the poster session and workshop discussion (up to 4 pages in CVPR format, not including references). CVPR Overleaf template can be <a href="https://www.overleaf.com/latex/templates/cvpr-2022-author-kit/qbmjsdxryffn">found here</a>. Latex/Word templates can be <a href="https://cvpr2022.thecvf.com/sites/default/files/2021-10/cvpr2022-author_kit-v1_1-1.zip">found here</a>. Please send your extended abstracts to <a href="mailto:mobility@bu.edu">mobility@bu.edu</a>. Note that submissions do not need to be anonymized. Extended abstracts of already published works can also be submitted. Accepted abstracts will be presented at the poster session, and will not be included in the printed proceedings of the workshop.
 Topics of interests by this workshop include, but are not limited to:
   <br>
@@ -314,14 +319,16 @@ Topics of interests by this workshop include, but are not limited to:
   <li>Medical and Social and Cultural Models of Disability</li>  
   <li>New Frameworks for Taxonomies and Terminology</li>  
     </ol>
-</div>
+</div> -->
+- TBD
 
 ## Important workshop dates
-- Updated challenge release: <strong>3/18/2023</strong>
+<!-- - Updated challenge release: <strong>3/18/2023</strong>
 - Workshop abstract submission deadline: <strong>6/11/2023</strong> (11:59PM PST, please submit extended abstracts via email to mobility@bu.edu) 
 - Challenge submission deadline: <strong>6/11/2023</strong> 
 - Abstract notification: <strong>6/13/2023</strong>
-- Challenge winner announcement: <strong>6/18/2023</strong>
+- Challenge winner announcement: <strong>6/18/2023</strong> -->
+- TBD
 
 
 <!-- ### Join our **[mailing list](https://staging-temp-site.github.io/staging-temp-site.gitub.io/)** for updates. -->
