@@ -154,19 +154,19 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   
   <!-- Organizer 1 -->
   <div style="width:45%; margin: 1%;">
-    <a href="placeholder-link-for-jieyu-zhang">
-      <img alt="Jieyu Zhang" src="placeholder-image.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
+    <a href="https://jieyuz2.github.io/">
+      <img alt="Jieyu Zhang" src="pics/jieyuzhang.png" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
     </a><br>
-    <a href="placeholder-link-for-jieyu-zhang">Jieyu Zhang</a><br>
+    <a href="https://jieyuz2.github.io/">Jieyu Zhang</a><br>
     Placeholder Institute
   </div>
 
   <!-- Organizer 2 -->
   <div style="width:45%; margin: 1%;">
-    <a href="placeholder-link-for-cheng-yu-hsieh">
-      <img alt="Cheng-Yu Hsieh" src="placeholder-image.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
+    <a href="https://chengyuhsieh.github.io/">
+      <img alt="Cheng-Yu Hsieh" src="pics/chengyuhsieh.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
     </a><br>
-    <a href="placeholder-link-for-cheng-yu-hsieh">Cheng-Yu Hsieh</a><br>
+    <a href="https://chengyuhsieh.github.io/">Cheng-Yu Hsieh</a><br>
     Placeholder Institute
   </div>
 
@@ -190,6 +190,15 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 
   <!-- Organizer 5 -->
   <div style="width:45%; margin: 1%;">
+    <a href="placeholder-link-for-weikai-huang">
+      <img alt="Weikai Huang" src="placeholder-image.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
+    </a><br>
+    <a href="placeholder-link-for-weikai-huang">Weikai Huang</a><br>
+    Placeholder Institute
+  </div>
+
+  <!-- Organizer 6 -->
+  <div style="width:45%; margin: 1%;">
     <a href="placeholder-link-for-wei-chiu-ma">
       <img alt="Wei-Chiu Ma" src="placeholder-image.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
     </a><br>
@@ -197,14 +206,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
     Placeholder Institute
   </div>
 
-  <!-- Organizer 6 -->
-  <div style="width:45%; margin: 1%;">
-    <a href="placeholder-link-for-weikai-huang">
-      <img alt="Weikai Huang" src="placeholder-image.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
-    </a><br>
-    <a href="placeholder-link-for-weikai-huang">Weikai Huang</a><br>
-    Placeholder Institute
-  </div>
+
 
   <!-- Organizer 7 -->
   <div style="width:45%; margin: 1%;">
