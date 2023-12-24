@@ -62,7 +62,7 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
 </div> -->
 - TBD
 
-## Schedule
+# Schedule
 <!-- <table>
   <tr><td>Times (PST)</td><td> </td></tr>
   <tr><td>13:00</td><td>Opening Remarks</td></tr>
@@ -78,7 +78,7 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
 </table> -->
 - TBD
   
-## Accepted Papers
+# Accepted Papers
 
 <!-- <table>
   <tr><td><a href="https://drive.google.com/file/d/1T6tTbxGM2OgYzb1anZhHlQ3mrPpRFKqR/view?usp=sharing">"Cascaded Training Strategy for CVPR2023 Synthetic Instance Segmentation"</a>. Runze Zhang, Xiaochuan Li, Baoyu Fan, Zhenhua Guo, Yaqian Zhao, Rengang Li</td></tr>
@@ -285,7 +285,7 @@ Towards building a community of accessibility research in computer vision confer
   
   
   
-## Call for Papers
+# Call for Papers
 
 <!-- <div style="text-align: justify">
 We encourage submission of relevant research (including work in progress, novel perspectives, formative studies, benchmarks, methods) as extended abstracts for the poster session and workshop discussion (up to 4 pages in CVPR format, not including references). CVPR Overleaf template can be <a href="https://www.overleaf.com/latex/templates/cvpr-2022-author-kit/qbmjsdxryffn">found here</a>. Latex/Word templates can be <a href="https://cvpr2022.thecvf.com/sites/default/files/2021-10/cvpr2022-author_kit-v1_1-1.zip">found here</a>. Please send your extended abstracts to <a href="mailto:mobility@bu.edu">mobility@bu.edu</a>. Note that submissions do not need to be anonymized. Extended abstracts of already published works can also be submitted. Accepted abstracts will be presented at the poster session, and will not be included in the printed proceedings of the workshop.
@@ -320,7 +320,7 @@ Topics of interests by this workshop include, but are not limited to:
 </div> -->
 - TBD
 
-## Important workshop dates
+# Important workshop dates
 <!-- - Updated challenge release: <strong>3/18/2023</strong>
 - Workshop abstract submission deadline: <strong>6/11/2023</strong> (11:59PM PST, please submit extended abstracts via email to mobility@bu.edu) 
 - Challenge submission deadline: <strong>6/11/2023</strong> 
@@ -355,7 +355,7 @@ Topics of interests by this workshop include, but are not limited to:
   </div--> 
   
 
-## Organizers
+# Organizers
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
   
   <!-- Organizer 1 -->
