@@ -8,8 +8,8 @@ buttons:
   Overview: './index.html'
   Invited Speakers: './index.html#invited-speakers'
   Schedule: './index.html#schedule'
-  Organizers: './index.html#organizers'
   Call for Papers: './index.html#call-for-papers'
   Important Dates: './index.html#important-workshop-dates'
+  Organizers: './index.html#organizers'
 github:
   is_project_page: false
