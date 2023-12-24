@@ -1,9 +1,9 @@
 theme: jekyll-theme-cayman
-title: 'AVA: Accessibility, Vision, and Autonomy Meet'
+title: 'Synthetic Data for Computer Vision'
 description:
-- CVPR 2023 Workshop
-- June 18, 2023 (Afternoon)
-- Vancouver, Canada
+- CVPR 2024 Workshop
+- June, 2024
+- Seattle, United States
 buttons:
   Overview: './index.html'
   Invited Speakers: './index.html#invited-speakers'
