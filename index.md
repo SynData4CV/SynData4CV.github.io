@@ -211,7 +211,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   <!-- Organizer 7 -->
   <div style="width:45%; margin: 1%;">
     <a href="https://web.mit.edu/phillipi/">
-      <img alt="Phillip Isola" src="pics/organizers/phillipisola.jpg" height="300" width="300" style="border-radius: 50%; object-fit: cover;">
+      <img alt="Phillip Isola" src="pics/organizers/phillipisola.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
     </a><br>
     <a href="https://web.mit.edu/phillipi/">Phillip Isola</a><br>
     Massachusetts Institute of Technology
@@ -220,7 +220,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   <!-- Organizer 8 -->
   <div style="width:45%; margin: 1%;">
     <a href="https://ranjaykrishna.com/index.html">
-      <img alt="Ranjay Krishna" src="pics/organizers/ranjaykrishna.png" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
+      <img alt="Ranjay Krishna" src="pics/organizers/ranjaykrishna.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
     </a><br>
     <a href="https://ranjaykrishna.com/index.html">Ranjay Krishna</a><br>
     University of Washington
