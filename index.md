@@ -155,28 +155,28 @@ The overarching goal of this workshop is to gather researchers, students, and ad
   <!-- Organizer 1 -->
   <div style="width:45%; margin: 1%;">
     <a href="https://jieyuz2.github.io/">
-      <img alt="Jieyu Zhang" src="pics/jieyuzhang.png" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
+      <img alt="Jieyu Zhang" src="pics/organizers/jieyuzhang.png" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
     </a><br>
     <a href="https://jieyuz2.github.io/">Jieyu Zhang</a><br>
-    Placeholder Institute
+    University of Washington
   </div>
 
   <!-- Organizer 2 -->
   <div style="width:45%; margin: 1%;">
     <a href="https://chengyuhsieh.github.io/">
-      <img alt="Cheng-Yu Hsieh" src="pics/chengyuhsieh.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
+      <img alt="Cheng-Yu Hsieh" src="pics/organizers/chengyuhsieh.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
     </a><br>
     <a href="https://chengyuhsieh.github.io/">Cheng-Yu Hsieh</a><br>
-    Placeholder Institute
+    University of Washington
   </div>
 
   <!-- Organizer 3 -->
   <div style="width:45%; margin: 1%;">
-    <a href="placeholder-link-for-zixian-ma">
-      <img alt="Zixian Ma" src="placeholder-image.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
+    <a href="https://zixianma.github.io/">
+      <img alt="Zixian Ma" src="pics/organizers/zixianma.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
     </a><br>
-    <a href="placeholder-link-for-zixian-ma">Zixian Ma</a><br>
-    Placeholder Institute
+    <a href="https://zixianma.github.io/">Zixian Ma</a><br>
+    University of Washington
   </div>
 
   <!-- Organizer 4 -->
