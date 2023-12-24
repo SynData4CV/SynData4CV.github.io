@@ -94,7 +94,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 </table>
 
 
-## Organizers
+
 <!-- <div style="display: flex">
   <div style="width:22.5%">
     <a href="https://eshed1.github.io/">
@@ -150,83 +150,7 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 
 </div> -->
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  
-  <!-- Organizer 1 -->
-  <div style="width:45%; margin: 1%;">
-    <a href="https://jieyuz2.github.io/">
-      <img alt="Jieyu Zhang" src="pics/organizers/jieyuzhang.png" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
-    </a><br>
-    <a href="https://jieyuz2.github.io/">Jieyu Zhang</a><br>
-    University of Washington
-  </div>
 
-  <!-- Organizer 2 -->
-  <div style="width:45%; margin: 1%;">
-    <a href="https://chengyuhsieh.github.io/">
-      <img alt="Cheng-Yu Hsieh" src="pics/organizers/chengyuhsieh.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
-    </a><br>
-    <a href="https://chengyuhsieh.github.io/">Cheng-Yu Hsieh</a><br>
-    University of Washington
-  </div>
-
-  <!-- Organizer 3 -->
-  <div style="width:45%; margin: 1%;">
-    <a href="https://zixianma.github.io/">
-      <img alt="Zixian Ma" src="pics/organizers/zixianma.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
-    </a><br>
-    <a href="https://zixianma.github.io/">Zixian Ma</a><br>
-    University of Washington
-  </div>
-
-  <!-- Organizer 4 -->
-  <div style="width:45%; margin: 1%;">
-    <a href="https://ssundaram21.github.io/">
-      <img alt="Shobhita Sundaram" src="pics/organizers/ssundaram.png" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
-    </a><br>
-    <a href="https://ssundaram21.github.io/">Shobhita Sundaram</a><br>
-    Massachusetts Institute of Technology
-  </div>
-
-  <!-- Organizer 5 -->
-  <div style="width:45%; margin: 1%;">
-    <a href="https://shen2347.github.io/">
-      <img alt="Weikai Huang" src="pics/organizers/weikaihuang.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
-    </a><br>
-    <a href="https://shen2347.github.io/">Weikai Huang</a><br>
-    University of Washington
-  </div>
-
-  <!-- Organizer 6 -->
-  <div style="width:45%; margin: 1%;">
-    <a href="https://people.csail.mit.edu/weichium/">
-      <img alt="Wei-Chiu Ma" src="pics/organizers/weichiuma.png" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
-    </a><br>
-    <a href="https://people.csail.mit.edu/weichium/">Wei-Chiu Ma</a><br>
-    Cornell University
-  </div>
-
-
-
-  <!-- Organizer 7 -->
-  <div style="width:45%; margin: 1%;">
-    <a href="https://web.mit.edu/phillipi/">
-      <img alt="Phillip Isola" src="pics/organizers/phillipisola.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
-    </a><br>
-    <a href="https://web.mit.edu/phillipi/">Phillip Isola</a><br>
-    Massachusetts Institute of Technology
-  </div>
-
-  <!-- Organizer 8 -->
-  <div style="width:45%; margin: 1%;">
-    <a href="https://ranjaykrishna.com/index.html">
-      <img alt="Ranjay Krishna" src="pics/organizers/ranjaykrishna.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
-    </a><br>
-    <a href="https://ranjaykrishna.com/index.html">Ranjay Krishna</a><br>
-    University of Washington
-  </div>
-
-</div>
   
 
 
@@ -424,4 +348,83 @@ Topics of interests by this workshop include, but are not limited to:
       
     </div>
   </div--> 
+  
 
+## Organizers
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+  
+  <!-- Organizer 1 -->
+  <div style="width:45%; margin: 1%;">
+    <a href="https://jieyuz2.github.io/">
+      <img alt="Jieyu Zhang" src="pics/organizers/jieyuzhang.png" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
+    </a><br>
+    <a href="https://jieyuz2.github.io/">Jieyu Zhang</a><br>
+    University of Washington
+  </div>
+
+  <!-- Organizer 2 -->
+  <div style="width:45%; margin: 1%;">
+    <a href="https://chengyuhsieh.github.io/">
+      <img alt="Cheng-Yu Hsieh" src="pics/organizers/chengyuhsieh.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
+    </a><br>
+    <a href="https://chengyuhsieh.github.io/">Cheng-Yu Hsieh</a><br>
+    University of Washington
+  </div>
+
+  <!-- Organizer 3 -->
+  <div style="width:45%; margin: 1%;">
+    <a href="https://zixianma.github.io/">
+      <img alt="Zixian Ma" src="pics/organizers/zixianma.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
+    </a><br>
+    <a href="https://zixianma.github.io/">Zixian Ma</a><br>
+    University of Washington
+  </div>
+
+  <!-- Organizer 4 -->
+  <div style="width:45%; margin: 1%;">
+    <a href="https://ssundaram21.github.io/">
+      <img alt="Shobhita Sundaram" src="pics/organizers/ssundaram.png" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
+    </a><br>
+    <a href="https://ssundaram21.github.io/">Shobhita Sundaram</a><br>
+    Massachusetts Institute of Technology
+  </div>
+
+  <!-- Organizer 5 -->
+  <div style="width:45%; margin: 1%;">
+    <a href="https://shen2347.github.io/">
+      <img alt="Weikai Huang" src="pics/organizers/weikaihuang.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
+    </a><br>
+    <a href="https://shen2347.github.io/">Weikai Huang</a><br>
+    University of Washington
+  </div>
+
+  <!-- Organizer 6 -->
+  <div style="width:45%; margin: 1%;">
+    <a href="https://people.csail.mit.edu/weichium/">
+      <img alt="Wei-Chiu Ma" src="pics/organizers/weichiuma.png" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
+    </a><br>
+    <a href="https://people.csail.mit.edu/weichium/">Wei-Chiu Ma</a><br>
+    Cornell University
+  </div>
+
+
+
+  <!-- Organizer 7 -->
+  <div style="width:45%; margin: 1%;">
+    <a href="https://web.mit.edu/phillipi/">
+      <img alt="Phillip Isola" src="pics/organizers/phillipisola.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
+    </a><br>
+    <a href="https://web.mit.edu/phillipi/">Phillip Isola</a><br>
+    Massachusetts Institute of Technology
+  </div>
+
+  <!-- Organizer 8 -->
+  <div style="width:45%; margin: 1%;">
+    <a href="https://ranjaykrishna.com/index.html">
+      <img alt="Ranjay Krishna" src="pics/organizers/ranjaykrishna.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
+    </a><br>
+    <a href="https://ranjaykrishna.com/index.html">Ranjay Krishna</a><br>
+    University of Washington
+  </div>
+
+</div>
