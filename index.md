@@ -199,31 +199,31 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 
   <!-- Organizer 6 -->
   <div style="width:45%; margin: 1%;">
-    <a href="placeholder-link-for-wei-chiu-ma">
-      <img alt="Wei-Chiu Ma" src="placeholder-image.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
+    <a href="https://people.csail.mit.edu/weichium/">
+      <img alt="Wei-Chiu Ma" src="pics/organizers/weichiuma.png" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
     </a><br>
-    <a href="placeholder-link-for-wei-chiu-ma">Wei-Chiu Ma</a><br>
-    Placeholder Institute
+    <a href="https://people.csail.mit.edu/weichium/">Wei-Chiu Ma</a><br>
+    Cornell University
   </div>
 
 
 
   <!-- Organizer 7 -->
   <div style="width:45%; margin: 1%;">
-    <a href="placeholder-link-for-phillip-isola">
-      <img alt="Phillip Isola" src="placeholder-image.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
+    <a href="https://web.mit.edu/phillipi/">
+      <img alt="Phillip Isola" src="pics/organizers/phillipisola.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
     </a><br>
-    <a href="placeholder-link-for-phillip-isola">Phillip Isola</a><br>
-    Placeholder Institute
+    <a href="https://web.mit.edu/phillipi/">Phillip Isola</a><br>
+    Massachusetts Institute of Technology
   </div>
 
   <!-- Organizer 8 -->
   <div style="width:45%; margin: 1%;">
-    <a href="placeholder-link-for-ranjay-krishna">
-      <img alt="Ranjay Krishna" src="placeholder-image.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
+    <a href="https://ranjaykrishna.com/index.html">
+      <img alt="Ranjay Krishna" src="pics/organizers/ranjaykrishna.png" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
     </a><br>
-    <a href="placeholder-link-for-ranjay-krishna">Ranjay Krishna</a><br>
-    Placeholder Institute
+    <a href="https://ranjaykrishna.com/index.html">Ranjay Krishna</a><br>
+    University of Washington
   </div>
 
 </div>
