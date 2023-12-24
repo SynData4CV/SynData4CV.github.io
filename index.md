@@ -181,20 +181,20 @@ The overarching goal of this workshop is to gather researchers, students, and ad
 
   <!-- Organizer 4 -->
   <div style="width:45%; margin: 1%;">
-    <a href="placeholder-link-for-shobhita-sundaram">
-      <img alt="Shobhita Sundaram" src="placeholder-image.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
+    <a href="https://ssundaram21.github.io/">
+      <img alt="Shobhita Sundaram" src="pics/organizers/ssundaram.png" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
     </a><br>
-    <a href="placeholder-link-for-shobhita-sundaram">Shobhita Sundaram</a><br>
-    Placeholder Institute
+    <a href="https://ssundaram21.github.io/">Shobhita Sundaram</a><br>
+    Massachusetts Institute of Technology
   </div>
 
   <!-- Organizer 5 -->
   <div style="width:45%; margin: 1%;">
-    <a href="placeholder-link-for-weikai-huang">
-      <img alt="Weikai Huang" src="placeholder-image.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
+    <a href="https://shen2347.github.io/">
+      <img alt="Weikai Huang" src="pics/organizers/weikaihuang.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
     </a><br>
-    <a href="placeholder-link-for-weikai-huang">Weikai Huang</a><br>
-    Placeholder Institute
+    <a href="https://shen2347.github.io/">Weikai Huang</a><br>
+    University of Washington
   </div>
 
   <!-- Organizer 6 -->
