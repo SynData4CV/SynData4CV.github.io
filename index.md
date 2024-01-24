@@ -409,7 +409,7 @@ Topics of interests by this workshop include, but are not limited to:
     <a href="https://weikaih2004.github.io/">
       <img alt="Weikai Huang" src="pics/organizers/weikaihuang.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
     </a><br>
-    <a href="https://shen2347.github.io/">Weikai Huang</a><br>
+    <a href="https://weikaih2004.github.io/">Weikai Huang</a><br>
     University of Washington
   </div>
 
