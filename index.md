@@ -406,7 +406,7 @@ Topics of interests by this workshop include, but are not limited to:
 
   <!-- Organizer 5 -->
   <div style="width:45%; margin: 1%;">
-    <a href="https://shen2347.github.io/">
+    <a href="https://weikaih2004.github.io/">
       <img alt="Weikai Huang" src="pics/organizers/weikaihuang.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
     </a><br>
     <a href="https://shen2347.github.io/">Weikai Huang</a><br>
