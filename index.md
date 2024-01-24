@@ -325,8 +325,12 @@ Topics of interests by this workshop include, but are not limited to:
 - Workshop abstract submission deadline: <strong>6/11/2023</strong> (11:59PM PST, please submit extended abstracts via email to mobility@bu.edu) 
 - Challenge submission deadline: <strong>6/11/2023</strong> 
 - Abstract notification: <strong>6/13/2023</strong>
-- Challenge winner announcement: <strong>6/18/2023</strong> -->
-- TBD
+- Challenge winner announcement: <strong>6/18/2023</strong>
+- TBD -->
+- Deadline for submission: <strong>March 15th, 11:59 PM Pacific Time</strong>
+- Notification of acceptance: <strong>April 25th, 11:59 PM Pacific Time</strong>
+- Camera Ready submission deadline: <strong>May 10th, 11:59 PM Pacific Time</strong>
+- Workshop date: <strong>June XXth, 2024 (Full day)</strong>
 
 
 <!-- ### Join our **[mailing list](https://staging-temp-site.github.io/staging-temp-site.gitub.io/)** for updates. -->
@@ -355,7 +359,11 @@ Topics of interests by this workshop include, but are not limited to:
   </div--> 
   
 # Related Workshops
-- TBD  
+- <a href="https://syntml-cvpr2022-workshop.github.io/">Machine Learning with Synthetic Data @ CVPR 2022</a>
+- <a href="https://sites.google.com/view/sdas2023/">Synthetic Data for Autonomous Systems @ CVPR 2023</a>
+- <a href="https://www.syntheticdata4ml.vanderschaar-lab.com/">Synthetic Data Generation with Generative AI @ NeurIPS 2023</a>
+
+  
 
 # Organizers
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
