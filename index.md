@@ -318,7 +318,59 @@ Topics of interests by this workshop include, but are not limited to:
   <li>New Frameworks for Taxonomies and Terminology</li>  
     </ol>
 </div> -->
-- TBD
+We invite papers on **the use of synthetic data for training and
+evaluating computer vision models.** We welcome submissions along two
+tracks:
+
+- **Full papers:** Up to 8 pages, not including references/appendix.
+
+- **Short papers:** Up to 4 pages, not including references/appendix.
+
+Accepted papers will be allocated a poster presentation and displayed on
+the workshop website. In addition, we will offer a Best Long Paper
+award, Best Paper Runner-up award, and Best Short Paper with oral
+presentation.
+
+## Topics {#topics .unnumbered}
+
+Potential topics include, but are not limited to:
+
+- **Effectiveness:** What is the most effective way to generate and
+    leverage synthetic data? How \"realistic\" does synthetic data need
+    to be?
+
+- **Efficiency and scalability:** Can we make synthetic data
+    generation more efficient and scalable without sacrificing quality?
+
+- **Benchmark and evaluation:** What benchmark and evaluation methods
+    are needed to assess the efficacy of synthetic data for computer
+    vision?
+
+- **Risks and ethical considerations:** What ethical questions and
+    risks are associated with synthetic data (*e.g.* bias
+    amplification), and how can we address them?
+
+- **Applications:** In addition to existing attempts on leveraging
+    synthetic data for training visual recognition and vision-language
+    models, what are other tasks in computer vision or other related
+    fields (*e.g.*, robotics, NLP) that could benefit from synthetic
+    data?
+
+- **Other open problems:** How do we decide which type of data to use,
+    synthetic or real-world data? What is the optimal way to combine
+    both if both are available? How much real-world data do we need (in
+    the long run)?
+
+## Submission Instructions {#submission-instructions .unnumbered}
+
+Submissions should be anonymized and formatted using the [CVPR 2024
+template](http://google.com) and uploaded as a single PDF. We do not
+accept submissions that have been previously published in machine
+learning conferences, journals or similar venues. Note that our workshop
+is non-archival.\
+\
+**Submission link:** TBD
+
 
 # Important workshop dates
 <!-- - Updated challenge release: <strong>3/18/2023</strong>
