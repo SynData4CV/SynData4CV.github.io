@@ -331,7 +331,7 @@ the workshop website. In addition, we will offer a Best Long Paper
 award, Best Paper Runner-up award, and Best Short Paper with oral
 presentation.
 
-## Topics
+### Topics
 
 Potential topics include, but are not limited to:
 
@@ -361,7 +361,7 @@ Potential topics include, but are not limited to:
     both if both are available? How much real-world data do we need (in
     the long run)?
 
-## Submission Instructions
+### Submission Instructions
 
 Submissions should be anonymized and formatted using the [CVPR 2024
 template](http://google.com) and uploaded as a single PDF. We do not
