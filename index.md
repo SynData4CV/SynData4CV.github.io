@@ -382,7 +382,7 @@ is non-archival.\
 - Deadline for submission: <strong>March 15th, 11:59 PM Pacific Time</strong>
 - Notification of acceptance: <strong>April 25th, 11:59 PM Pacific Time</strong>
 - Camera Ready submission deadline: <strong>May 10th, 11:59 PM Pacific Time</strong>
-- Workshop date: <strong>June XXth, 2024 (Full day)</strong>
+- Workshop date: <strong>June 18th, 2024 (Full day)</strong>
 
 
 <!-- ### Join our **[mailing list](https://staging-temp-site.github.io/staging-temp-site.gitub.io/)** for updates. -->
