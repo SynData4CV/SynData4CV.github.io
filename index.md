@@ -364,12 +364,10 @@ Potential topics include, but are not limited to:
 ### Submission Instructions
 
 Submissions should be anonymized and formatted using the [CVPR 2024
-template](http://google.com) and uploaded as a single PDF. We do not
-accept submissions that have been previously published in machine
-learning conferences, journals or similar venues. Note that our workshop
-is non-archival.\
+template](http://google.com) and uploaded as a single PDF. 
+Note that our workshop is non-archival.\
 \
-**Submission link:** TBD
+**Submission link:** [OpenReview Link](https://openreview.net/group?id=thecvf.com/CVPR/2024/Workshop/SynData4CV)
 
 
 # Important workshop dates
