@@ -18,7 +18,7 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
 
   <div style="width:45%; margin: 1%;">
-    <a href=d"https://people.csail.mit.edu/yalesong/home/">
+    <a href="https://people.csail.mit.edu/yalesong/home/">
       <img alt="Yale Song" src="pics/speakers/yale.jpg" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
     <a href="https://people.csail.mit.edu/yalesong/home/">Yale Song</a><br>
