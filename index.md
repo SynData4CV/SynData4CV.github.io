@@ -15,52 +15,57 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
 </div>
 
 # Invited Speakers
-<!-- <div style="display: flex">
-  <div style="width:22.5%">
-    <a href="https://cvhci.anthropomatik.kit.edu/">
-    <img alt="Rainer Stiefelhagen" src="pics/rainer.png" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+
+  <div style="width:45%; margin: 1%;">
+    <a href=d"https://people.csail.mit.edu/yalesong/home/">
+      <img alt="Yale Song" src="pics/speakers/yale.jpg" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
-    <a href="https://cvhci.anthropomatik.kit.edu/">Rainer Stiefelhagen</a><br>
-    Karlsruhe Institute of Technology
-  </div>
-  
-  <div style="width:2.5%">
+    <a href="https://people.csail.mit.edu/yalesong/home/">Yale Song</a><br>
+    FAIR, Meta AI
   </div>
    
-   <div style="width:22.5%">
-    <a href="https://make4all.org/portfolio/jennifer-mankoff/">
-    <img alt="Jennifer Mankoff" src="pics/jmankoff_sm.jpg"   height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+   <div style="width:45%; margin: 1%;">
+    <a href="https://www.cs.umd.edu/people/lin">
+      <img alt="Ming Lin" src="pics/speakers/minglin.jpg"   height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
-  <a href="https://make4all.org/portfolio/jennifer-mankoff/">Jennifer Mankoff</a><br>
-    University of Washington
+  <a href="https://www.cs.umd.edu/people/lin">Ming Lin</a><br>
+    University of Maryland
   </div>
   
-   <div style="width:2.5%">
-  </div>
-  <div style="width:22.5%">
-    <a href="https://www.seleste.co/">
-    <img alt="Smit Patel" src="pics/smit.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+  <div style="width:45%; margin: 1%;">
+    <a href="https://anikem.github.io/">
+      <img alt="Ani	Kembhavi" src="pics/speakers/ani.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
-  <a href="https://www.seleste.co/">Smit Patel</a><br>
-    University of Victoria & Seleste Co-Founder
-  </div>
-  
-    <div style="width:2.5%">
-  </div>
-      
- 
-  
-  <div style="width:22.5%">
-    <a href="https://www.cs.washington.edu/people/faculty/ladner">
-    <img alt="Richard Ladner" src="pics/ladner4.jpg"   height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
-    </a><br>
-  <a href="https://www.cs.washington.edu/people/faculty/ladner/">Richard Ladner</a><br>
-    University of Washington
+  <a href="https://anikem.github.io/">Ani	Kembhavi</a><br>
+    Allen Institute for AI (AI2)
   </div>
   
 
-</div> -->
-- TBD
+  <div style="width:45%; margin: 1%;">
+    <a href="https://www.cs.princeton.edu/~olgarus/">
+      <img alt="Olga Russakovsky" src="pics/speakers/olgarussakovsky.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+  <a href="https://www.cs.princeton.edu/~olgarus/">Olga Russakovsky</a><br>
+    Princeton University
+  </div>
+  
+  <div style="width:45%; margin: 1%;">
+    <a href="https://people.csail.mit.edu/ludwigs/">
+      <img alt="Ludwig Schmidt" src="pics/speakers/ludwig.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+  <a href="https://people.csail.mit.edu/ludwigs/">Ludwig Schmidt</a><br>
+    University of Washington
+  </div>
+
+  <div style="width:45%; margin: 1%;">
+  <a href="">
+   
+  </a><br>
+  <a href=""></a><br>
+  
+</div>
+</div>
 
 # Schedule
 <!-- <table>
@@ -491,5 +496,6 @@ Note that our workshop is non-archival.\
     <a href="https://ranjaykrishna.com/index.html">Ranjay Krishna</a><br>
     University of Washington
   </div>
+  
 
 </div>
