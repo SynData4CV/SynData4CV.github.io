@@ -18,13 +18,21 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
 
   <div style="width:45%; margin: 1%;">
-    <a href="https://people.csail.mit.edu/yalesong/home/">
-      <img alt="Yale Song" src="pics/speakers/yale.jpg" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    <a href="https://anikem.github.io/">
+      <img alt="Ani	Kembhavi" src="pics/speakers/ani.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
-    <a href="https://people.csail.mit.edu/yalesong/home/">Yale Song</a><br>
-    FAIR, Meta AI
+  <a href="https://anikem.github.io/">Ani	Kembhavi</a><br>
+    Allen Institute for AI (AI2)
   </div>
-   
+
+  <div style="width:45%; margin: 1%;">
+    <a href="https://people.csail.mit.edu/ludwigs/">
+      <img alt="Ludwig Schmidt" src="pics/speakers/ludwig.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+  <a href="https://people.csail.mit.edu/ludwigs/">Ludwig Schmidt</a><br>
+    University of Washington
+  </div>
+  
    <div style="width:45%; margin: 1%;">
     <a href="https://www.cs.umd.edu/people/lin">
       <img alt="Ming Lin" src="pics/speakers/minglin.jpg"   height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
@@ -34,29 +42,23 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
   </div>
   
   <div style="width:45%; margin: 1%;">
-    <a href="https://anikem.github.io/">
-      <img alt="Ani	Kembhavi" src="pics/speakers/ani.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
-    </a><br>
-  <a href="https://anikem.github.io/">Ani	Kembhavi</a><br>
-    Allen Institute for AI (AI2)
-  </div>
-  
-
-  <div style="width:45%; margin: 1%;">
     <a href="https://www.cs.princeton.edu/~olgarus/">
       <img alt="Olga Russakovsky" src="pics/speakers/olgarussakovsky.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
   <a href="https://www.cs.princeton.edu/~olgarus/">Olga Russakovsky</a><br>
     Princeton University
   </div>
-  
+
   <div style="width:45%; margin: 1%;">
-    <a href="https://people.csail.mit.edu/ludwigs/">
-      <img alt="Ludwig Schmidt" src="pics/speakers/ludwig.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    <a href="https://people.csail.mit.edu/yalesong/home/">
+      <img alt="Yale Song" src="pics/speakers/yale.jpg" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
-  <a href="https://people.csail.mit.edu/ludwigs/">Ludwig Schmidt</a><br>
-    University of Washington
+    <a href="https://people.csail.mit.edu/yalesong/home/">Yale Song</a><br>
+    FAIR, Meta AI
   </div>
+   
+
+
 
   <div style="width:45%; margin: 1%;">
   <a href="">
