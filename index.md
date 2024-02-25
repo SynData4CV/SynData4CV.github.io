@@ -56,6 +56,14 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
     <a href="https://people.csail.mit.edu/yalesong/home/">Yale Song</a><br>
     FAIR, Meta AI
   </div>
+
+  <div style="width:45%; margin: 1%;">
+    <a href="https://www.skamalas.com/">
+      <img alt="Yannis Kalantidis" src="pics/speakers/yannis.jpg" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+    <a href="https://www.skamalas.com/">Yannis Kalantidis</a><br>
+    NAVER LABS Europe
+  </div>
    
 
 
