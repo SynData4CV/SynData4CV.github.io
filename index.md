@@ -51,6 +51,22 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
   </div>
 
   <div style="width:45%; margin: 1%;">
+    <a href="https://www.cs.cmu.edu/~rsalakhu/">
+      <img alt="Ruslan Salakhutdinov" src="pics/speakers/ruslan.jpg" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+    <a href="https://www.cs.cmu.edu/~rsalakhu/">Ruslan Salakhutdinov</a><br>
+    Carnegie Mellon University
+  </div>
+
+  <div style="width:45%; margin: 1%;">
+    <a href="https://research.google/people/oriol-vinyals/">
+      <img alt="Oriol Vinyals" src="pics/speakers/oriol.jpg" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+    <a href="https://research.google/people/oriol-vinyals/">Oriol Vinyals</a><br>
+    Google DeepMind
+  </div>
+
+  <div style="width:45%; margin: 1%;">
     <a href="https://people.csail.mit.edu/yalesong/home/">
       <img alt="Yale Song" src="pics/speakers/yale.jpg" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
