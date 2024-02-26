@@ -49,6 +49,14 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
   <a href="https://www.cs.princeton.edu/~olgarus/">Olga Russakovsky</a><br>
     Princeton University
   </div>
+  
+  <div style="width:45%; margin: 1%;">
+    <a href="https://research.google/people/oriol-vinyals/">
+      <img alt="Oriol Vinyals" src="pics/speakers/oriol.jpg" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+    <a href="https://research.google/people/oriol-vinyals/">Oriol Vinyals</a><br>
+    Google DeepMind
+  </div>
 
   <div style="width:45%; margin: 1%;">
     <a href="https://www.cs.cmu.edu/~rsalakhu/">
@@ -58,13 +66,7 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
     Carnegie Mellon University
   </div>
 
-  <div style="width:45%; margin: 1%;">
-    <a href="https://research.google/people/oriol-vinyals/">
-      <img alt="Oriol Vinyals" src="pics/speakers/oriol.jpg" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
-    </a><br>
-    <a href="https://research.google/people/oriol-vinyals/">Oriol Vinyals</a><br>
-    Google DeepMind
-  </div>
+
 
   <div style="width:45%; margin: 1%;">
     <a href="https://people.csail.mit.edu/yalesong/home/">
