@@ -411,7 +411,7 @@ Note that our workshop is non-archival.\
 - Abstract notification: <strong>6/13/2023</strong>
 - Challenge winner announcement: <strong>6/18/2023</strong>
 - TBD -->
-- Deadline for submission: ~~<strong>March 15th, 11:59 PM Pacific Time</strong>~~ <strong>March 24th, 11:59 PM Pacific Time</strong>
+- Deadline for submission: ~~<strong>March 15th, 11:59 PM Pacific Time</strong>~~ <strong>March 30th, 11:59 PM Pacific Time</strong>
 - Notification of acceptance: <strong>April 25th, 11:59 PM Pacific Time</strong>
 - Camera Ready submission deadline: <strong>May 10th, 11:59 PM Pacific Time</strong>
 - Workshop date: <strong>June 18th, 2024 (Full day)</strong>
