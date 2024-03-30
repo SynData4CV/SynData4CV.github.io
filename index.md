@@ -28,12 +28,12 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
   
   <div style="width:45%; margin: 1%;">
     <a href="https://www.cs.princeton.edu/~jiadeng/">
-      <img alt="Deng Jia" src="pics/speakers/jiadeng.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+      <img alt="Jia Deng" src="pics/speakers/jiadeng.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
-  <a href="https://www.cs.princeton.edu/~jiadeng/">Deng Jia</a><br>
+  <a href="https://www.cs.princeton.edu/~jiadeng/"> Jia Deng</a><br>
     Princeton University
   </div>
-
+  
   <div style="width:45%; margin: 1%;">
     <a href="https://people.csail.mit.edu/ludwigs/">
       <img alt="Ludwig Schmidt" src="pics/speakers/ludwig.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
