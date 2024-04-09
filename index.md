@@ -121,22 +121,54 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
 - TBD
   
 # Accepted Papers
+<table>
+<tr><td><a href="https://openreview.net/forum?id=FZxofmVOwg">DDOS: The Drone Depth and Obstacle Segmentation Dataset</a>. Benedikt Kolbeinsson, Krystian Mikolajczyk</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=cesQERAXhi">From NeRF to 3DGS: A Leap in Stereo Dataset Quality?</a>. Magnus Kaufmann Gjerde, Filip Slezák, Joakim Bruslund Haurum, Thomas B. Moeslund</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=T1eCXQuWE2">Training Robust Classifiers with Diffusion Denoised Examples</a>. Chandramouli Shama Sastry, Sri Harsha Dumpala, Sageev Oore</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=wNKOQVcMDS">Uncertainty Inclusive Contrastive Learning for Leveraging Synthetic Images</a>. Fiona Cai, Emily Mu, John Guttag</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=WlBqPK2uLa">HDL-SAM: A Hybrid Deep Learning Framework for High-Resolution Imaging in Scanning Acoustic Microscopy</a>. Akshit Sharma, Ayush Somani, Pragyan Banerjee, Anowarul Habib</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=25vcM0vPyD">MICDrop: Masking Image and Depth Features via Complementary Dropout for Domain-Adaptive Semantic Segmentation</a>. Linyan Yang, Lukas Hoyer, Mark Weber, Tobias Fischer, Dengxin Dai, Laura Leal-Taixé, Daniel Cremers, Marc Pollefeys, Luc Van Gool</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=XQQ12dIR7C">An Approach to Synthesize Thermal Infrared Ship Images</a>. Doan Thinh Vo</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=Skh18goLXF">LAESI: Leaf Area Estimation with Synthetic Imagery</a>. Jacek Kałużny, Yannik Schreckenberger, Karol Cyganik, Peter Annighöfer, Soren Pirk, Dominik Michels, Mikolaj Cieslak, Farhah Assaad, Bedrich Benes, Wojtek Palubicki</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=hJm7qnW3ym">GenAI-Bench: A Holistic Benchmark for Compositional Text-to-Visual Generation</a>. Baiqi-Li, Zhiqiu Lin, Deepak Pathak, Jiayao Emily Li, Xide Xia, Graham Neubig, Pengchuan Zhang, Deva Ramanan</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=I1vrc56Vau">SEVC: Synthetic Event-based Vision Dataset using CARLA</a>. Manideep Reddy Aliminati, Bharatesh Chakravarthi, Aayush Atul Verma, Arpitsinh Vaghela, Hua Wei, Xuesong Zhou, Yezhou Yang</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=VSFR5eBP7h">Implicit Neural Clustering</a>. Thomas Kreutz, Max Mühlhäuser, Alejandro Sanchez Guinea</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=7YnS0mYl8s">Training with Real instead of Synthetic Generated Images Still Performs Better</a>. Scott Geng, Ranjay Krishna, Pang Wei Koh</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=SwO84a6yA5">A Neural Model for High-Performance Scanning Electron Microscopy Image Simulation of Porous Materials</a>. Tim Dahmen</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=i5tZ9szbTt">S2MGen: A Synthetic Skin Mask Generator for Improving Segmentation</a>. Subhadra Gopalakrishnan, Trisha Mittal, Jaclyn Pytlarz, Yuheng Zhao</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=48zldWWWNi">Self-Distillation on Conditional Spatial Activation Maps for ForeGround-BackGround Segmentation</a>. Yeruru Asrar Ahmed, Anurag Mittal</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=A9NOAS0hn1">GeomVerse: A Systematic Evaluation of Large Models for Geometric Reasoning</a>. Mehran Kazemi, Hamidreza Alvari, Ankit Anand, Jialin Wu, Xi Chen, Radu Soricut</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=gYE6LBojgM">CompoDiff: Versatile Composed Image Retrieval With Latent Diffusion</a>. Geonmo Gu, Sanghyuk Chun, Wonjae Kim, HeeJae Jun, Yoohoon Kang, Sangdoo Yun</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=4xURVbKlCt">Video2Game: Real-time, Interactive, Realistic and Browser-Compatible Environment from a Single Video</a>. Hongchi Xia, Zhi-Hao Lin, Wei-Chiu Ma, Shenlong Wang</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=0sMJfHCyk2">UrbanIR: Large-Scale Urban Scene Inverse Rendering from a Single Video</a>. Zhi-Hao Lin, Bohan Liu, Yi-Ting Chen, David Forsyth, Jia-Bin Huang, Anand Bhattad, Shenlong Wang</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=g5PfpoSoat">Gen2Det: Generate to Detect</a>. Saksham Suri, Fanyi Xiao, Animesh Sinha, Sean Culatana, Raghuraman Krishnamoorthi, Chenchen Zhu, Abhinav Shrivastava</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=NcCAy6PXNF">DISC: Latent Diffusion Models with Self-Distillation from Separated Conditions for Prostate Cancer Grading</a>. Man M. Ho, Elham Ghelichkhan, Yosep Chong, Yufei Zhou, Beatrice S. Knudsen, Tolga Tasdizen</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=8cd6gOPm7o">On the Equivalency, Substitutability, and Flexibility of Synthetic Data</a>. Che-Jui Chang, Danrui Li, Seonghyeon Moon, Mubbasir Kapadia</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=BgpApqspGw">Beyond Internet Images: Evaluating Vision-Language Models for Domain Generalization on Synthetic-to-Real Industrial Datasets</a>. Louis Hémadou, Héléna Vorobieva, Ewa Kijak, Frederic Jurie</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=jSB5wlUU3p">DiffInject: Revisiting Debias via Synthetic Data Generation using Diffusion-based Style Injection</a>. Donggeun Ko, Sangwoo Jo, Dongjun Lee, Namjun Park, Jaekwang KIM</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=ckhhCcGq9n">Balancing Quality and Quantity: The Impact of Synthetic Data on Smoke Detection Accuracy in Computer Vision</a>. Ethan Seefried, Changsoo Jung, Jack Fitzgerald, Mariah Bradford, Trevor Chartier, Nathaniel Blanchard</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=XFYqhBBB61">Object-Conditioned Energy-Based Model for Attention Map Alignment in Text-to-Image Diffusion Models</a>. Yasi Zhang, Peiyu Yu, Ying Nian Wu</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=WgRrHFlyLU">DGInStyle: Domain-Generalizable Semantic Segmentation with Image Diffusion Models and Stylized Semantic Control</a>. Yuru Jia, Lukas Hoyer, Shengyu Huang, Tianfu Wang, Luc Van Gool, Konrad Schindler, Anton Obukhov</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=iIC2ZLRHL6">Diffusion Models for Open-Vocabulary Segmentation</a>. Laurynas Karazija, Iro Laina, Andrea Vedaldi, Christian Rupprecht</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=ooB0RdxEcH">Can Computer Vision Help Relativistic Physics? \\ ML-JET dataset for relativistic heavy ion collisions</a>. Haydar Mehryar, Chengzhi Mao, Loren Schwiebert</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=3Bv2Sz54lV">CinePile: A Long Video Question Answering Dataset and Benchmark</a>. Ruchit Rawal, Khalid Saifullah, Ronen Basri, David Jacobs, Gowthami Somepalli, Tom Goldstein</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=ZV9XDgmTvf">m&m's: A Benchmark to Evaluate Tool-Use for multi-step multi-modal Tasks</a>. Zixian Ma, Weikai Huang, Jieyu Zhang, Tanmay Gupta, Ranjay Krishna</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=EZYvU2oC6J">Harlequin: Color-driven Generation of Synthetic Data for Referring Expression Comprehension</a>. Luca Parolari, Elena Izzo, Lamberto Ballan</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=J0p8qKsWl0">Inclusive Portrait Lighting Estimation Model Leveraging Graphic-Based Synthetic Data</a>. Kin Ching Lydia Chau, Tao LI, Ruowei Jiang, Zhi Yu, Panagiotis-Alexandros Bokaris</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=k4Xnh0EPus">Attributed Synthetic Data Generation for Zero-shot Image Classification</a>. Shijian Wang, Linxin Song, Ryotaro Shimizu, Masayuki Goto, Hanqian wu</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=p6igw3ldIc">A Benchmark Synthetic Dataset for C-SLAM in Service Environments</a>. Harin Park, Inha Lee, Minje Kim, Hyungyu Park, Kyungdon Joo</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=XusBKwfVxX">Compositional Learning of Visually-Grounded Concepts Using Reinforcement</a>. Zijun Lin, Haidi Azaman, M Ganesh Kumar, Cheston Tan</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=Uq6uBK6n5d">Visual Program Distillation: Distilling Tools and Programmatic Reasoning into Vision-Language Models</a>. Yushi Hu, Otilia Stretcu, Chun-Ta Lu, Krishnamurthy Viswanathan, Kenji Hata, Enming Luo, Ranjay Krishna, Ariel Fuxman</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=cAFgDFprbC">DreamSync: Aligning Text-to-Image Generation with Image Understanding Feedback</a>. Jiao Sun, Deqing Fu, Yushi Hu, Su Wang, Royi Rassin, Da-Cheng Juan, Dana Alon, Charles Herrmann, Sjoerd van Steenkiste, Ranjay Krishna, Cyrus Rashtchian</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=EvDZlcHNDo">SIFTer: Self-improving Synthetic Datasets for Pre-training Classification Models</a>. Ryo Hayamizu, Shota Nakamura, Sora Takashima, Hirokatsu Kataoka, Ikuro Sato, Nakamasa Inoue, Rio Yokota</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=B7PKwbqNdo">R3DS: Reality-linked 3D Scenes for Panoramic Scene Understanding</a>. Qirui Wu, Sonia Raychaudhuri, Daniel Ritchie, Manolis Savva, Angel X Chang</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=xHKWN3Yi6U">Intrinsic LoRA: A Generalist Approach for Discovering Knowledge in Generative Models</a>. Xiaodan Du, Nicholas Kolkin, Greg Shakhnarovich, Anand Bhattad</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=4tbbxtGwou">XIMAGENET-12: An Explainable Visual Benchmark Dataset for Model Robustness Evaluation</a>. Qiang Li, Dan Zhang, Shengzhao Lei, Xun Zhao, WeiWei Li, Porawit Kamnoedboon, Junhao Dong, Shuyan Li</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=D9sfy3NUbY">Paved2Paradise: Cost-Effective and Scalable LiDAR Simulation by Factoring the Real World</a>. Michael A. Alcorn, Noah Schwartz</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=X2cmDAjprN">Virtually Enriched NYU Depth V2 Dataset for Monocular Depth Estimation: Do We Need Artificial Augmentation?</a>. Dmitry Yu. Ignatov, Andrey Ignatov, Radu Timofte</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=oKwYycMSrf">SynthCLIP: Are We Ready for a Fully Synthetic CLIP Training?</a>. Hasan Abed Al Kader Hammoud, Hani Itani, Fabio Pizzati, Adel Bibi, Bernard Ghanem</td></tr>
+</table>
 
-<!-- <table>
-  <tr><td><a href="https://drive.google.com/file/d/1T6tTbxGM2OgYzb1anZhHlQ3mrPpRFKqR/view?usp=sharing">"Cascaded Training Strategy for CVPR2023 Synthetic Instance Segmentation"</a>. Runze Zhang, Xiaochuan Li, Baoyu Fan, Zhenhua Guo, Yaqian Zhao, Rengang Li</td></tr>
-  <tr><td><a href="https://drive.google.com/file/d/14ShWx1XljemvIpIDI6341s2MpTMNsd_X/view?usp=sharing">"Non-Hierarchical Transformers for Pedestrian Segmentation"</a>. Amani Kiruga, Xi Peng</td></tr>
-  <tr><td><a href="https://drive.google.com/file/d/1okBN8qofg6i-5iu22PzBrxECBBUX661B/view?usp=sharing">"MultiHead Attention Mask-RCNN for AVA Instance Segmentation"</a>. Aarti Balana</td></tr>
-  <tr><td><a href="https://drive.google.com/file/d/1B9bricf2dPqI35_qk_mhqZ3qPDNqdpCv/view?usp=sharing">"The First Place Solution for CVPR 2023 AVA Challenge - Keypoint Track"</a>. Chenglong Yi, Fuxing Leng</td></tr>
-  <tr><td><a href="https://drive.google.com/file/d/1s8K3HF803geK9lotHYSjPqZXIHg8MRod/view?usp=sharing">"An Improved Baseline for Keypoint Track in CVPR2023 AVA Accessibility Vision and Autonomy Challenge"</a>. Jiajun Fu, Shaojie Zhang, Jianqin Yin</td></tr>
-  <tr><td><a href="https://drive.google.com/file/d/1EBZb95ZcRye2sXro2xwsRphplaH9F6bm/view?usp=sharing">"A dataset of human actions for abnormal event recognition in assistive robotic environments"</a>. Catherine Huyghe, Nacim Ihaddadene</td></tr>
-  <tr><td><a href="https://drive.google.com/file/d/1RTAlWiD1eOru5IyTp_ojBIwlngoJv1oZ/view?usp=sharing">"Textual and Directional Sign Recognition Algorithm for People with Visual Impairment by Linking Texts and Arrows"</a>. Masaki Kuribayashi, Hironobu Takagi, Chieko Asakawa, Shigeo Morishima</td></tr>
-  <tr><td><a href="https://drive.google.com/file/d/1i7oUOQyJHXhya4BpC0bMdnaHK_IX7qkf/view?usp=sharing">"Case Study of GAI for Accessible Design and Prototyping"</a>. Kate Glazko, Jennifer Mankoff</td></tr>
-  <tr><td><a href="https://drive.google.com/file/d/1wwSus3hkZCnRw-YJARgaOLNdKHaYaR5m/view?usp=sharing">"Shared Affordance-awareness via Augmented Reality for Proactive Assistance in Human-robot Collaboration"</a>. Drake Moore</td></tr>
-  <tr><td><a href="https://drive.google.com/file/d/122wAn_IdZL5KoyjkCsBg7IxtOLIGz7jR/view?usp=sharing">"Slovo: Russian Sign Language Dataset"</a>. Alexander Kapitanov</td></tr>
-  <tr><td><a href="https://drive.google.com/file/d/1t_BpByMpW5PnLHCI4LtmXXdwq-u19g-x/view?usp=sharing">"X-World: Accessibility, Vision, and Autonomy Meet"</a>, Jimuyang Zhang<sup>*</sup>, Minglan Zheng<sup>*</sup>, Matthew Boyd, Eshed Ohn-Bar</td></tr>
-  <tr><td><a href="https://drive.google.com/file/d/1eCd7wQrKpItxhDEUIjrJkmgtFAS5VZrB/view?usp=sharing">"ASSISTER: Assistive Navigation via Conditional Instruction Generation"</a>. Zanming Huang<sup>*</sup>, Zhongkai Shangguan<sup>*</sup>, Jimuyang Zhang, Gilad Bar, Matthew Boyd, and Eshed Ohn-Bar</td></tr>
-</table> -->
-- TBD
 
 
 
@@ -420,8 +452,8 @@ Note that our workshop is non-archival.\
 - Challenge winner announcement: <strong>6/18/2023</strong>
 - TBD -->
 - Deadline for submission: ~~<strong>March 15th, 11:59 PM Pacific Time</strong>~~ <strong>March 30th, 11:59 PM Pacific Time</strong>
-- Notification of acceptance: <strong>April 25th, 11:59 PM Pacific Time</strong>
-- Camera Ready submission deadline: <strong>May 10th, 11:59 PM Pacific Time</strong>
+- Notification of acceptance: <strong>April 9th, 11:59 PM Pacific Time</strong>
+- Camera Ready submission deadline: <strong>April 24th, 11:59 PM Pacific Time</strong>
 - Workshop date: <strong>June 18th, 2024 (Full day)</strong>
 
 
