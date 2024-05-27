@@ -163,6 +163,7 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
 <tr><td><a href="https://openreview.net/forum?id=D9sfy3NUbY">Paved2Paradise: Cost-Effective and Scalable LiDAR Simulation by Factoring the Real World</a>. Michael A. Alcorn, Noah Schwartz</td></tr>
 <tr><td><a href="https://openreview.net/forum?id=X2cmDAjprN">Virtually Enriched NYU Depth V2 Dataset for Monocular Depth Estimation: Do We Need Artificial Augmentation?</a>. Dmitry Yu. Ignatov, Andrey Ignatov, Radu Timofte</td></tr>
 <tr><td><a href="https://openreview.net/forum?id=oKwYycMSrf">SynthCLIP: Are We Ready for a Fully Synthetic CLIP Training?</a>. Hasan Abed Al Kader Hammoud, Hani Itani, Fabio Pizzati, Adel Bibi, Bernard Ghanem</td></tr>
+<tr><td><a href="https://openreview.net/forum?id=VSFR5eBP7h">Implicit Neural Clustering</a>. Thomas Kreutz, Max Mühlhäuser, Alejandro Sanchez Guinea</td></tr>
 </table>
 
 
