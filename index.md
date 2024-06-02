@@ -50,7 +50,7 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
     University of Maryland
   </div>
   
-  <div style="width:45%; margin: 1%;">
+  <!-- <div style="width:45%; margin: 1%;">
     <a href="https://www.cs.princeton.edu/~olgarus/">
       <img alt="Olga Russakovsky" src="pics/speakers/olgarussakovsky.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
@@ -64,7 +64,7 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
     </a><br>
     <a href="https://research.google/people/oriol-vinyals/">Oriol Vinyals</a><br>
     Google DeepMind
-  </div>
+  </div> -->
 
   <div style="width:45%; margin: 1%;">
     <a href="https://www.cs.cmu.edu/~rsalakhu/">
@@ -105,20 +105,24 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
 </div>
 
 # Schedule
-<!-- <table>
-  <tr><td>Times (PST)</td><td> </td></tr>
-  <tr><td>13:00</td><td>Opening Remarks</td></tr>
-  <tr><td>13:10-13:40</td><td>Rainer Stiefelhagen</td></tr>
-  <tr><td>13:40-14:10</td><td>Jennifer Mankoff</td></tr>
-  <tr><td>14:10-14:20</td><td>Challenge Winner Announcements</td></tr>
-  <tr><td>14:20-14:40</td><td>Challenge Winner Talks</td></tr>
-  <tr><td>14:40-15:00</td><td>Poster Highlights</td></tr>
-  <tr><td>15:05-15:45</td><td>Hybrid Poster Session (first 20 minutes) + Coffee Break (last 20 minutes)</td></tr>
-  <tr><td>15:45-16:15</td><td>Smit Patel</td></tr>
-  <tr><td>16:15-16:45</td><td>Richard Ladner, "Including Accessibility and Disability in an Undergraduate CV Course"</td></tr>
-  <tr><td>16:45-17:30</td><td>Concluding Remarks, Poster Session #2</td></tr>
-</table> -->
-- TBD
+<table>
+  <tr><td>Times (PST)</td><td>Event</td></tr>
+  <tr><td>09:00 - 09:10</td><td>Opening</td></tr>
+  <tr><td>09:10 - 09:50</td><td>Talk by Ludwig Schmidt</td></tr>
+  <tr><td>09:50 - 10:30</td><td>Talk by Ruslan Salakhutdinov</td></tr>
+  <tr><td>10:30 - 10:50</td><td>Break</td></tr>
+  <tr><td>10:50 - 11:30</td><td>Talk by Yale Song</td></tr>
+  <tr><td>11:30 - 12:10</td><td>Talk by Jia Deng</td></tr>
+  <tr><td>12:10 - 13:30</td><td>Lunch</td></tr>
+  <tr><td>13:30 - 14:30</td><td>Poster Session</td></tr>
+  <tr><td>14:30 - 15:10</td><td>Talk by Ani	Kembhavi</td></tr>
+  <tr><td>15:10 - 15:50</td><td>Talk by Ming Lin</td></tr>
+  <tr><td>15:50 - 16:10</td><td>Break</td></tr>
+  <tr><td>16:10 - 16:50</td><td>Talk by Yannis Kalantidis</td></tr>
+  <tr><td>16:50 - 17:05</td><td>Oral Presentation</td></tr>
+  <tr><td>17:05 - 17:20</td><td>Oral Presentation</td></tr>
+  <tr><td>17:20 - 17:30</td><td>Closing</td></tr>
+</table>
   
 # Accepted Papers
 <table>
