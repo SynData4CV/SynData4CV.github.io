@@ -119,10 +119,24 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
   <tr><td>15:10 - 15:50</td><td>Talk by Ming Lin</td></tr>
   <tr><td>15:50 - 16:10</td><td>Break</td></tr>
   <tr><td>16:10 - 16:50</td><td>Talk by Yannis Kalantidis</td></tr>
-  <tr><td>16:50 - 17:05</td><td>Oral Presentation</td></tr>
-  <tr><td>17:05 - 17:20</td><td>Oral Presentation</td></tr>
+  <tr><td>16:50 - 17:05</td><td>Oral Presentation: CinePile: A Long Video Question Answering Dataset and Benchmark</td></tr>
+  <tr><td>17:05 - 17:20</td><td>Oral Presentation: GenAI-Bench: A Holistic Benchmark for Compositional Text-to-Visual Generation</td></tr>
   <tr><td>17:20 - 17:30</td><td>Closing</td></tr>
 </table>
+
+# Poster Session
+- **Date:** June 18, 2024
+- **Time:** 1:30 PM - 2:30 PM
+- **Location:** Arch Building Exhibit Hall
+
+Each poster has been assigned a unique number. To find your poster number, please refer to the following link: [Poster Numbers](https://docs.google.com/spreadsheets/d/1ZQe6xmVc_f1R1dJc1RDa_Cam_SlaRAoNRyPb69dGgkI/edit?usp=sharing), or ask volunteers in the workshop for help.
+
+**Important Note:**
+Authors of workshop's accepted papers can put up the poster ONLY during the poster session time. Materials for attaching posters to the poster stands will be provided on-site.
+
+
+<!-- # Oral Papers
+<tr><td><a href="https://openreview.net/forum?id=3Bv2Sz54lV">CinePile: A Long Video Question Answering Dataset and Benchmark</a>. Ruchit Rawal, Khalid Saifullah, Ronen Basri, David Jacobs, Gowthami Somepalli, Tom Goldstein</td></tr> -->
   
 # Accepted Papers
 <table>
