@@ -128,15 +128,6 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
 - **Date:** June 18, 2024
 - **Time:** 1:30 PM - 2:30 PM
 - **Location:** Arch Building Exhibit Hall
-<!-- 
-Each poster has been assigned a unique number. To find your poster number, please refer to the following link: [Poster Numbers](https://docs.google.com/spreadsheets/d/1ZQe6xmVc_f1R1dJc1RDa_Cam_SlaRAoNRyPb69dGgkI/edit?usp=sharing), or ask volunteers in the workshop for help.
-
-**Important Note:**
-Authors of workshop's accepted papers can put up the poster ONLY during the poster session time. Materials for attaching posters to the poster stands will be provided on-site. -->
-
-
-<!-- # Oral Papers
-<tr><td><a href="https://openreview.net/forum?id=3Bv2Sz54lV">CinePile: A Long Video Question Answering Dataset and Benchmark</a>. Ruchit Rawal, Khalid Saifullah, Ronen Basri, David Jacobs, Gowthami Somepalli, Tom Goldstein</td></tr> -->
   
 # Accepted Papers
 <table>
