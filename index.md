@@ -134,7 +134,7 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
 Notice: The location of the poster session is different from the workshop.
 - **Date:** June 18, 2024
 - **Time:** 1:30 PM - 2:30 PM
-- **Location:** Arch Building Exhibit Hall
+- **Location:** Arch Building Exhibit Hall, #300 - 349
   
 # Accepted Papers
 <table>
