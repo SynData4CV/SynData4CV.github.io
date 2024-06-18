@@ -104,7 +104,13 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
 </div>
 </div>
 
+
 # Schedule
+
+- **Date:** June 18, 2024
+- **Time:** 8:30 AM - 5:30 PM
+- **Location:** Summit 423-425
+
 <table>
   <tr><td>Times (PST)</td><td>Event</td></tr>
   <tr><td>09:00 - 09:10</td><td>Opening</td></tr>
@@ -125,6 +131,7 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
 </table>
 
 # Poster Session
+Notice: The location of the poster session is different from the workshop.
 - **Date:** June 18, 2024
 - **Time:** 1:30 PM - 2:30 PM
 - **Location:** Arch Building Exhibit Hall
