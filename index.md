@@ -136,6 +136,30 @@ Notice: The location of the poster session is different from the workshop.
 - **Time:** 1:30 PM - 2:30 PM
 - **Location:** Arch Building Exhibit Hall, #300 - 349
   
+
+# Awards
+
+**Best long paper**
+<table> 
+  <tr><td><a href="https://openreview.net/forum?id=3Bv2Sz54lV">CinePile: A Long Video Question Answering Dataset and Benchmark</a>. Ruchit Rawal, Khalid Saifullah, Ronen Basri, David Jacobs, Gowthami Somepalli, Tom Goldstein</td></tr>
+</table>
+
+**Long paper honorable mention**
+<table> 
+  <tr><td><a href="https://openreview.net/forum?id=p6igw3ldIc">A Benchmark Synthetic Dataset for C-SLAM in Service Environments</a>. Harin Park, Inha Lee, Minje Kim, Hyungyu Park, Kyungdon Joo</td></tr>
+</table>
+
+**Best short paper**
+<table> 
+  <tr><td><a href="https://openreview.net/forum?id=hJm7qnW3ym">GenAI-Bench: A Holistic Benchmark for Compositional Text-to-Visual Generation</a>. Baiqi Li, Zhiqiu Lin, Deepak Pathak, Jiayao Emily Li, Xide Xia, Graham Neubig, Pengchuan Zhang, Deva Ramanan</td></tr>
+</table>
+
+**Short paper honorable mention**
+<table> 
+  <tr><td><a href="https://openreview.net/forum?id=B7PKwbqNdo">R3DS: Reality-linked 3D Scenes for Panoramic Scene Understanding</a>. Qirui Wu, Sonia Raychaudhuri, Daniel Ritchie, Manolis Savva, Angel X Chang</td></tr>
+</table>
+
+
 # Accepted Papers
 <table>
 <tr><td><a href="https://openreview.net/forum?id=FZxofmVOwg">DDOS: The Drone Depth and Obstacle Segmentation Dataset</a>. Benedikt Kolbeinsson, Krystian Mikolajczyk</td></tr>
