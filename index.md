@@ -6,14 +6,14 @@ buttons:
   Invited Speakers: './index.html#invited-speakers'
   Schedule: './index.html#schedule'
   Call for Papers: './index.html#call-for-papers'
-  Sponsor: 'index.html#sponsor'
+  Sponsorship: 'index.html#sponsorship'
   Important Dates: './index.html#important-workshop-dates'
   Related Workshops: './index.html#related-workshops'
   Organizers: './index.html#organizers'
 description:
   - CVPR 2025 Workshop
   - June, 2025
-  - Seattle, United States
+  - Nashville, TN, United States
 ---
 
 <style> 
@@ -44,7 +44,9 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
 * Stay tuned for updates!
 
 
-# Sponsor
+# Sponsorship
+* If you are interested in sponsoring SynData4CV workshop @ CVPR 2025, please reach out to Jieyu Zhang (jieyuz2@cs.washington.edu).
+
 
 
 
