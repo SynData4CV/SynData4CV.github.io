@@ -88,35 +88,6 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
  -->
 
 
-## Call for papers
-* Stay tuned for updates!
-<!-- Please refer to the **[call for papers](./call-for-papers.html)** page for more details. -->
-
-<!-- 
-<div style="text-align: center">
-<u><g8>Challenge</g8></u>
-</div>
- -->
-
-<!-- ## Challenge overview -->
-<!-- 
-<div style="text-align: justify">
-
-
-Towards building a community of accessibility research in computer vision conferences, we introduce a computer vision challenge with synthetic and real-world benchmarks. The challenge (based on our ICCV’21 paper, <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_X-World_Accessibility_Vision_and_Autonomy_Meet_ICCV_2021_paper.pdf">bit.ly/2X8sYoX</a>) will be used to benchmark various computer vision tasks when comparing new and established methods for fine-grained perception of tasks relevant to people with disabilities. The challenge is designed in the spirit of various other vision challenges that help advance the state-of-the-art of computer vision for autonomous systems, e.g., in robust vision (CVPR’21), human action recognition trajectory forecasting (CVPR’21), etc. E
- </div>
-<div class = "center">
-    <img alt="fig1" src="pics/fig1.svg" >
-    <p>Fig. 1: An interactive simulation environment will be used as part of the workshop challenge for training machine perception and learning models in the context of accessibility (taken from <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_X-World_Accessibility_Vision_and_Autonomy_Meet_ICCV_2021_paper.pdf">bit.ly/2X8sYoX</a>).</p>
-<br> 
-<div class = "center">
-    <img alt="fig2" src="pics/fig2.svg" >
-    <p>An example from the instance segmentation challenge for perceiving people with mobility aids.</p>
-</div>
-<br> 
-</div>
-<br>-->
-
 
 <!-- ## Challenge Organization
 
