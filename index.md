@@ -6,6 +6,7 @@ buttons:
   Invited Speakers: './index.html#invited-speakers'
   Schedule: './index.html#schedule'
   Call for Papers: './index.html#call-for-papers'
+  Sponsor: 'index.html#sponsor'
   Important Dates: './index.html#important-workshop-dates'
   Related Workshops: './index.html#related-workshops'
   Organizers: './index.html#organizers'
