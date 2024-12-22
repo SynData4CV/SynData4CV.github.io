@@ -1,6 +1,12 @@
 ---
 layout: default
+title: Synthetic Data for Computer Vision - CVPR 2025
+description:
+  - CVPR 2025 Workshop
+  - June, 2025
+  - Seattle, United States
 ---
+
 <style> 
 .center {
   display: block;

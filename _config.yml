@@ -1,9 +1,5 @@
 theme: jekyll-theme-cayman
 title: 'Synthetic Data for Computer Vision'
-description:
-- CVPR 2025 Workshop
-- June, 2025
-- Seattle, United States
 buttons:
   Overview: './index.html'
   Invited Speakers: './index.html#invited-speakers'
