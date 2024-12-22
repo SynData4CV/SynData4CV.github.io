@@ -16,7 +16,7 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
 
 # Invited Speakers 
 * The speakers haven't been finalized, stay tuned for updates!
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+<!-- <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
 
   <div style="width:45%; margin: 1%;">
     <a href="https://anikem.github.io/">
@@ -102,12 +102,12 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
   <a href=""></a><br>
   
 </div>
-</div>
+</div> -->
 
 
 # Schedule
 
-- **Date:** June 18, 2025
+<!-- - **Date:** June 18, 2025
 - **Time:** 8:30 AM - 5:30 PM
 - **Location:** Summit 423-425
 
@@ -128,18 +128,18 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
   <tr><td>16:50 - 17:05</td><td>Oral Presentation: CinePile: A Long Video Question Answering Dataset and Benchmark</td></tr>
   <tr><td>17:05 - 17:20</td><td>Oral Presentation: GenAI-Bench: A Holistic Benchmark for Compositional Text-to-Visual Generation</td></tr>
   <tr><td>17:20 - 17:30</td><td>Closing</td></tr>
-</table>
+</table> -->
 
 # Poster Session
-Notice: The location of the poster session is different from the workshop.
+<!-- Notice: The location of the poster session is different from the workshop.
 - **Date:** June 18, 2025
 - **Time:** 1:30 PM - 2:30 PM
 - **Location:** Arch Building Exhibit Hall, #300 - 349
-  
+   -->
 
 # Awards
 
-**Best long paper**
+<!-- **Best long paper**
 <table> 
   <tr><td><a href="https://openreview.net/forum?id=3Bv2Sz54lV">CinePile: A Long Video Question Answering Dataset and Benchmark</a>. Ruchit Rawal, Khalid Saifullah, Ronen Basri, David Jacobs, Gowthami Somepalli, Tom Goldstein</td></tr>
 </table>
@@ -157,10 +157,10 @@ Notice: The location of the poster session is different from the workshop.
 **Short paper honorable mention**
 <table> 
   <tr><td><a href="https://openreview.net/forum?id=B7PKwbqNdo">R3DS: Reality-linked 3D Scenes for Panoramic Scene Understanding</a>. Qirui Wu, Sonia Raychaudhuri, Daniel Ritchie, Manolis Savva, Angel X Chang</td></tr>
-</table>
+</table> -->
 
 
-# Accepted Papers
+<!-- # Accepted Papers
 <table>
 <tr><td><a href="https://openreview.net/forum?id=FZxofmVOwg">DDOS: The Drone Depth and Obstacle Segmentation Dataset</a>. Benedikt Kolbeinsson, Krystian Mikolajczyk</td></tr>
 <tr><td><a href="https://openreview.net/forum?id=cesQERAXhi">From NeRF to 3DGS: A Leap in Stereo Dataset Quality?</a>. Magnus Kaufmann Gjerde, Filip Slezák, Joakim Bruslund Haurum, Thomas B. Moeslund</td></tr>
@@ -204,7 +204,7 @@ Notice: The location of the poster session is different from the workshop.
 <tr><td><a href="https://openreview.net/forum?id=X2cmDAjprN">Virtually Enriched NYU Depth V2 Dataset for Monocular Depth Estimation: Do We Need Artificial Augmentation?</a>. Dmitry Yu. Ignatov, Andrey Ignatov, Radu Timofte</td></tr>
 <tr><td><a href="https://openreview.net/forum?id=oKwYycMSrf">SynthCLIP: Are We Ready for a Fully Synthetic CLIP Training?</a>. Hasan Abed Al Kader Hammoud, Hani Itani, Fabio Pizzati, Adel Bibi, Bernard Ghanem</td></tr>
 <tr><td><a href="https://openreview.net/forum?id=VSFR5eBP7h">Implicit Neural Clustering</a>. Thomas Kreutz, Max Mühlhäuser, Alejandro Sanchez Guinea</td></tr>
-</table>
+</table> -->
 
 
 
