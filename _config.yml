@@ -1,13 +1,5 @@
 theme: jekyll-theme-cayman
 title: 'Synthetic Data for Computer Vision'
-buttons:
-  Overview: './index.html'
-  Invited Speakers: './index.html#invited-speakers'
-  Schedule: './index.html#schedule'
-  Call for Papers: './index.html#call-for-papers'
-  Important Dates: './index.html#important-workshop-dates'
-  Related Workshops: './index.html#related-workshops'
-  Organizers: './index.html#organizers'
 
 github:
   is_project_page: false

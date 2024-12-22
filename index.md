@@ -1,6 +1,14 @@
 ---
 layout: default
 title: Synthetic Data for Computer Vision - CVPR 2025
+buttons:
+  Overview: './index.html'
+  Invited Speakers: './index.html#invited-speakers'
+  Schedule: './index.html#schedule'
+  Call for Papers: './index.html#call-for-papers'
+  Important Dates: './index.html#important-workshop-dates'
+  Related Workshops: './index.html#related-workshops'
+  Organizers: './index.html#organizers'
 description:
   - CVPR 2025 Workshop
   - June, 2025
