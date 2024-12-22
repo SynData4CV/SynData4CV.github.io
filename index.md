@@ -22,7 +22,7 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
 
 # Invited Speakers 
 * The speakers haven't been finalized, stay tuned for updates!
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+<!-- <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
 
   <div style="width:45%; margin: 1%;">
     <a href="https://anikem.github.io/">
@@ -108,7 +108,7 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
   <a href=""></a><br>
   
 </div>
-</div>
+</div> -->
 
 
 # Schedule
