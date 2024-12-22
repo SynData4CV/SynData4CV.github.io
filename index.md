@@ -43,7 +43,7 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
 * Stay tuned for updates!
 
 
-
+# Sponsor
 
 
 
@@ -222,6 +222,8 @@ Potential topics include, but are not limited to:
     synthetic or real-world data? What is the optimal way to combine
     both if both are available? How much real-world data do we need (in
     the long run)?
+
+
 
 ### Submission Instructions
 
