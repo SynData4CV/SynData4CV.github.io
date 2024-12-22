@@ -106,7 +106,7 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
 
 
 # Schedule
-
+* Stay tuned for updates!
 <!-- - **Date:** June 18, 2025
 - **Time:** 8:30 AM - 5:30 PM
 - **Location:** Summit 423-425
@@ -131,6 +131,7 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
 </table> -->
 
 # Poster Session
+* Stay tuned for updates!
 <!-- Notice: The location of the poster session is different from the workshop.
 - **Date:** June 18, 2025
 - **Time:** 1:30 PM - 2:30 PM
@@ -138,7 +139,7 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
    -->
 
 # Awards
-
+* Stay tuned for updates!
 <!-- **Best long paper**
 <table> 
   <tr><td><a href="https://openreview.net/forum?id=3Bv2Sz54lV">CinePile: A Long Video Question Answering Dataset and Benchmark</a>. Ruchit Rawal, Khalid Saifullah, Ronen Basri, David Jacobs, Gowthami Somepalli, Tom Goldstein</td></tr>
@@ -209,62 +210,6 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
 
 
 
-<!-- <div style="display: flex">
-  <div style="width:22.5%">
-    <a href="https://eshed1.github.io/">
-    <img alt="Eshed Ohn-Bar" src="pics/eshed_ohn_bar.jpg" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
-    </a><br>
-    <a href="https://eshed1.github.io/">Eshed Ohn-Bar</a><br>
-    Boston University
-  </div>
-  
-  <div style="width:2.5%">
-  </div>
-   
-  <div style="width:22.5%">
-    <a href="https://home.cs.colorado.edu/~DrG/AboutMe.html">
-    <img alt="Danna Gurari" src="pics/danna_gurari.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
-    </a><br>
-  <a href="https://home.cs.colorado.edu/~DrG/AboutMe.html">Danna Gurari</a><br>
-    University of Colorado Boulder
-  </div>
-  
-    <div style="width:2.5%">
-  </div>
-       
-  <div style="width:22.5%">
-    <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-chiekoa">
-    <img alt="Chieko Asakawa" src="pics/chieko_asakawa.jpg"   height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
-    </a><br>
-  <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-chiekoa">Chieko Asakawa</a><br>
-    Carnegie Mellon University and IBM
-  </div>
-  
-    <div style="width:2.5%">
-  </div>
-
-  <div style="width:22.5%">
-    <a href="https://ischool.umd.edu/directory/hernisa-kacorri/">
-    <img alt="Hernisa Kacorri" src="pics/Hernisa-Kacorri.jpg"   height="200" width ="200" style =  "border-radius: 50%; object-fit: cover; ">
-    </a><br>
-  <a href="https://ischool.umd.edu/directory/hernisa-kacorri/">Hernisa Kacorri</a><br>
-    University of Maryland
-  </div>
-  
-    <div style="width:2.5%">
-  </div>
-  
-    <div style="width:22.5%">
-    <a href="http://www.cs.cmu.edu/~kkitani/">
-    <img alt="Kris Kitani" src="pics/kitani_kris.jpg"  height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
-    </a><br>
-  <a href="http://www.cs.cmu.edu/~kkitani/">Kris Kitani</a><br>
-    Carnegie Mellon University
-  </div>
-
-</div> -->
-
-
   
 
 
@@ -305,7 +250,8 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
  -->
 
 
-<!-- ## Call for papers -->
+## Call for papers
+* Stay tuned for updates!
 <!-- Please refer to the **[call for papers](./call-for-papers.html)** page for more details. -->
 
 <!-- 
@@ -397,38 +343,6 @@ Towards building a community of accessibility research in computer vision confer
   
   
 # Call for Papers
-
-<!-- <div style="text-align: justify">
-We encourage submission of relevant research (including work in progress, novel perspectives, formative studies, benchmarks, methods) as extended abstracts for the poster session and workshop discussion (up to 4 pages in CVPR format, not including references). CVPR Overleaf template can be <a href="https://www.overleaf.com/latex/templates/cvpr-2022-author-kit/qbmjsdxryffn">found here</a>. Latex/Word templates can be <a href="https://cvpr2022.thecvf.com/sites/default/files/2021-10/cvpr2022-author_kit-v1_1-1.zip">found here</a>. Please send your extended abstracts to <a href="mailto:mobility@bu.edu">mobility@bu.edu</a>. Note that submissions do not need to be anonymized. Extended abstracts of already published works can also be submitted. Accepted abstracts will be presented at the poster session, and will not be included in the printed proceedings of the workshop.
-Topics of interests by this workshop include, but are not limited to:
-  <br>
-  <ol>
-  <li>AI for Accessibility</li>
-  <li>Accessibility-Centered Computer Vision Tasks and Datasets</li>
-  <li>Data-Driven Accessibility Tools, Metrics and Evaluation Frameworks</li>
-  <li>Practical Challenges in Ability-Based Assistive Technologies</li>  
-  <li>Accessibility in Robotics and Autonomous Vehicles</li>  
-  <li>Long-Tail and Low-Shot Recognition of Accessibility-Based Tasks</li>  
-  <li>Accessible Homes, Hospitals, Cities, Infrastructure, Transportation</li>   
-  <li>Crowdsourcing and Annotation Tools for Vision and Accessibility</li>  
-  <li>Empirical Real-World Studies in Inclusive System Design</li>  
-  <li>Assistive Human-Robot Interaction</li>  
-  <li>Remote Accessibility Systems</li>   
-  <li>Multi-Modal (Audio, Visual, Inertial, Haptic) Learning and Interaction</li>  
-  <li>Accessible Mobile and Information Technologies</li>  
-  <li>Virtual, Augmented, and Mixed Reality for Accessibility</li>  
-  <li>Novel Designs for Robotic, Wearable and Smartphone-Based Assistance</li>  
-  <li>Intelligent Assistive Embodied and Navigational Agents</li>   
-  <li>Socially Assistive Mobile Applications</li>  
-  <li>Human-in-the-Loop Machine Learning Techniques</li>  
-  <li>Accessible Tutoring and Education</li>  
-  <li>Personalization for Diverse Physical, Motor, and Cognitive Abilities</li>  
-  <li>Embedded Hardware-Optimized Assistive Systems</li>  
-  <li>Intelligent Robotic Wheelchairs</li>  
-  <li>Medical and Social and Cultural Models of Disability</li>  
-  <li>New Frameworks for Taxonomies and Terminology</li>  
-    </ol>
-</div> -->
 We invite papers on **the use of synthetic data for training and
 evaluating computer vision models.** We welcome submissions along two
 tracks:
@@ -474,11 +388,11 @@ Potential topics include, but are not limited to:
 
 ### Submission Instructions
 
-Submissions should be anonymized and formatted using the [CVPR 2025
+<!-- Submissions should be anonymized and formatted using the [CVPR 2025
 template](http://google.com) and uploaded as a single PDF. 
 Note that our workshop is non-archival.\
 \
-**Submission link:** [OpenReview Link](https://openreview.net/group?id=thecvf.com/CVPR/2025/Workshop/SynData4CV)
+**Submission link:** [OpenReview Link](https://openreview.net/group?id=thecvf.com/CVPR/2025/Workshop/SynData4CV) -->
 
 
 # Important workshop dates
@@ -488,10 +402,10 @@ Note that our workshop is non-archival.\
 - Abstract notification: <strong>6/13/2023</strong>
 - Challenge winner announcement: <strong>6/18/2023</strong>
 - TBD -->
-- Deadline for submission: ~~<strong>March 15th, 11:59 PM Pacific Time</strong>~~ <strong>March 30th, 11:59 PM Pacific Time</strong>
+<!-- - Deadline for submission: ~~<strong>March 15th, 11:59 PM Pacific Time</strong>~~ <strong>March 30th, 11:59 PM Pacific Time</strong>
 - Notification of acceptance: <strong>April 9th, 11:59 PM Pacific Time</strong>
 - Camera Ready submission deadline: <strong>April 24th, 11:59 PM Pacific Time</strong>
-- Workshop date: <strong>June 18th, 2025 (Full day)</strong>
+- Workshop date: <strong>June 18th, 2025 (Full day)</strong> -->
 
 
 <!-- ### Join our **[mailing list](https://staging-temp-site.github.io/staging-temp-site.gitub.io/)** for updates. -->
