@@ -1,8 +1,7 @@
 theme: jekyll-theme-cayman
 title: 'Synthetic Data for Computer Vision'
 description:
-- CVPR 2024 Workshop
-- June, 2024
+- CVPR Workshop
 - Seattle, United States
 buttons:
   Overview: './index.html'
