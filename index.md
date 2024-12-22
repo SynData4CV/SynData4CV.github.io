@@ -520,8 +520,8 @@ Note that our workshop is non-archival.\
 
 
 
-### Access CVPR 2024 Workshop
+<!-- ### Access CVPR 2024 Workshop
 If you are looking for details about the previous workshop, click the button below:
 
-[Go to CVPR 2025 Workshop](cvpr2024.html)
-</div>
+[Go to CVPR 2024 Workshop](cvpr2024.html)
+</div> -->
