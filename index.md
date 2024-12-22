@@ -107,7 +107,7 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
 
 # Schedule
 
-- **Date:** June 18, 2024
+- **Date:** June 18, 2025
 - **Time:** 8:30 AM - 5:30 PM
 - **Location:** Summit 423-425
 
@@ -132,7 +132,7 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
 
 # Poster Session
 Notice: The location of the poster session is different from the workshop.
-- **Date:** June 18, 2024
+- **Date:** June 18, 2025
 - **Time:** 1:30 PM - 2:30 PM
 - **Location:** Arch Building Exhibit Hall, #300 - 349
   
@@ -474,11 +474,11 @@ Potential topics include, but are not limited to:
 
 ### Submission Instructions
 
-Submissions should be anonymized and formatted using the [CVPR 2024
+Submissions should be anonymized and formatted using the [CVPR 2025
 template](http://google.com) and uploaded as a single PDF. 
 Note that our workshop is non-archival.\
 \
-**Submission link:** [OpenReview Link](https://openreview.net/group?id=thecvf.com/CVPR/2024/Workshop/SynData4CV)
+**Submission link:** [OpenReview Link](https://openreview.net/group?id=thecvf.com/CVPR/2025/Workshop/SynData4CV)
 
 
 # Important workshop dates
@@ -491,7 +491,7 @@ Note that our workshop is non-archival.\
 - Deadline for submission: ~~<strong>March 15th, 11:59 PM Pacific Time</strong>~~ <strong>March 30th, 11:59 PM Pacific Time</strong>
 - Notification of acceptance: <strong>April 9th, 11:59 PM Pacific Time</strong>
 - Camera Ready submission deadline: <strong>April 24th, 11:59 PM Pacific Time</strong>
-- Workshop date: <strong>June 18th, 2024 (Full day)</strong>
+- Workshop date: <strong>June 18th, 2025 (Full day)</strong>
 
 
 <!-- ### Join our **[mailing list](https://staging-temp-site.github.io/staging-temp-site.gitub.io/)** for updates. -->
@@ -609,5 +609,5 @@ Note that our workshop is non-archival.\
 ### Access CVPR 2024 Workshop
 If you are looking for details about the previous workshop, click the button below:
 
-[Go to CVPR 2024 Workshop](cvpr2024.html)
+[Go to CVPR 2025 Workshop](cvpr2024.html)
 </div>
