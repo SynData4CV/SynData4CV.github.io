@@ -267,6 +267,16 @@ Note that our workshop is non-archival.\
 
   <!-- Organizer 2 -->
   <div style="width:45%; margin: 1%;">
+    <a href="https://weikaih2004.github.io/">
+      <img alt="Weikai Huang" src="pics/organizers/weikaihuang.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
+    </a><br>
+    <a href="https://weikaih2004.github.io/">Weikai Huang</a><br>
+    University of Washington
+  </div>
+
+
+  <!-- Organizer 3 -->
+  <div style="width:45%; margin: 1%;">
     <a href="https://chengyuhsieh.github.io/">
       <img alt="Cheng-Yu Hsieh" src="pics/organizers/chengyuhsieh.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
     </a><br>
@@ -274,7 +284,7 @@ Note that our workshop is non-archival.\
     University of Washington
   </div>
 
-  <!-- Organizer 3 -->
+  <!-- Organizer 4 -->
   <div style="width:45%; margin: 1%;">
     <a href="https://zixianma.github.io/">
       <img alt="Zixian Ma" src="pics/organizers/zixianma.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
@@ -283,7 +293,16 @@ Note that our workshop is non-archival.\
     University of Washington
   </div>
 
-  <!-- Organizer 4 -->
+  <!-- Organizer 5 -->
+  <div style="width:45%; margin: 1%;">
+    <a href="https://red-fairy.github.io/">
+      <img alt="Rundong Luo" src="pics/organizers/rundongluo.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
+    </a><br>
+    <a href="https://red-fairy.github.io/">Rundong Luo</a><br>
+    University of Washington
+  </div>
+
+  <!-- Organizer 6 -->
   <div style="width:45%; margin: 1%;">
     <a href="https://ssundaram21.github.io/">
       <img alt="Shobhita Sundaram" src="pics/organizers/ssundaram.png" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
@@ -292,33 +311,14 @@ Note that our workshop is non-archival.\
     Massachusetts Institute of Technology
   </div>
 
-  <!-- Organizer 5 -->
-  <div style="width:45%; margin: 1%;">
-    <a href="https://weikaih2004.github.io/">
-      <img alt="Weikai Huang" src="pics/organizers/weikaihuang.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
-    </a><br>
-    <a href="https://weikaih2004.github.io/">Weikai Huang</a><br>
-    University of Washington
-  </div>
 
-  <!-- Organizer 6 -->
+  <!-- Organizer 7 -->
   <div style="width:45%; margin: 1%;">
     <a href="https://people.csail.mit.edu/weichium/">
       <img alt="Wei-Chiu Ma" src="pics/organizers/weichiuma.png" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
     </a><br>
     <a href="https://people.csail.mit.edu/weichium/">Wei-Chiu Ma</a><br>
     Cornell University
-  </div>
-
-
-
-  <!-- Organizer 7 -->
-  <div style="width:45%; margin: 1%;">
-    <a href="https://web.mit.edu/phillipi/">
-      <img alt="Phillip Isola" src="pics/organizers/phillipisola.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
-    </a><br>
-    <a href="https://web.mit.edu/phillipi/">Phillip Isola</a><br>
-    Massachusetts Institute of Technology
   </div>
 
   <!-- Organizer 8 -->
@@ -330,11 +330,3 @@ Note that our workshop is non-archival.\
     University of Washington
   </div>
 </div>
-
-
-
-<!-- ### Access CVPR 2024 Workshop
-If you are looking for details about the previous workshop, click the button below:
-
-[Go to CVPR 2024 Workshop](cvpr2024.html)
-</div> -->
