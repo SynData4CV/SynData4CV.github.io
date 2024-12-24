@@ -299,7 +299,7 @@ Note that our workshop is non-archival.\
       <img alt="Rundong Luo" src="pics/organizers/rundongluo.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
     </a><br>
     <a href="https://red-fairy.github.io/">Rundong Luo</a><br>
-    University of Washington
+    Cornell University
   </div>
 
   <!-- Organizer 6 -->
