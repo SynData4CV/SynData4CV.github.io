@@ -201,11 +201,11 @@ Potential topics include, but are not limited to:
 
 ### Submission Instructions
 
-<!-- Submissions should be anonymized and formatted using the [CVPR 2025
-template](http://google.com) and uploaded as a single PDF. 
+Submissions should be anonymized and formatted using the [CVPR 2025
+template](https://github.com/cvpr-org/author-kit/releases) and uploaded as a single PDF. 
 Note that our workshop is non-archival.\
 \
-**Submission link:** [OpenReview Link](https://openreview.net/group?id=thecvf.com/CVPR/2025/Workshop/SynData4CV) -->
+**Submission link:** [OpenReview Link](https://openreview.net/group?id=thecvf.com/CVPR/2025/Workshop/SynData4CV)
 
 
 # Important workshop dates
@@ -215,10 +215,10 @@ Note that our workshop is non-archival.\
 - Abstract notification: <strong>6/13/2023</strong>
 - Challenge winner announcement: <strong>6/18/2023</strong>
 - TBD -->
-<!-- - Deadline for submission: ~~<strong>March 15th, 11:59 PM Pacific Time</strong>~~ <strong>March 30th, 11:59 PM Pacific Time</strong>
-- Notification of acceptance: <strong>April 9th, 11:59 PM Pacific Time</strong>
-- Camera Ready submission deadline: <strong>April 24th, 11:59 PM Pacific Time</strong>
-- Workshop date: <strong>June 18th, 2025 (Full day)</strong> -->
+- Deadline for submission: <strong>March 31th, 11:59 PM Pacific Time</strong>
+- Notification of acceptance: <strong>April 9th, 11:59 PM Pacific Time (Tentative)</strong> 
+- Camera Ready submission deadline: <strong>April 24th, 11:59 PM Pacific Time (Tentative)</strong>
+- Workshop date: <strong>June 18th, 2025 (Full day) (Tentative)</strong>
 
 
 <!-- ### Join our **[mailing list](https://staging-temp-site.github.io/staging-temp-site.gitub.io/)** for updates. -->
