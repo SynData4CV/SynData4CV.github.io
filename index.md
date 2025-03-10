@@ -52,6 +52,14 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
   </div>
   
    <div style="width:45%; margin: 1%;">
+    <a href="https://www.cs.cornell.edu/~bharathh/">
+      <img alt="Bharath Hariharan" src="pics/speakers/bharath.jpg"   height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+  <a href="https://www.cs.cornell.edu/~bharathh/">Bharath Hariharan</a><br>
+    University of California, Los Angeles
+  </div>
+
+   <div style="width:45%; margin: 1%;">
     <a href="https://boleizhou.github.io/">
       <img alt="Ming Lin" src="pics/speakers/bolei.jpg"   height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
