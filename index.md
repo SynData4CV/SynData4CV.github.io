@@ -30,7 +30,67 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
 </div>
 
 # Invited Speakers 
-* Stay tuned for updates!
+* The speakers haven't been finalized, stay tuned for updates!
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+
+  <div style="width:45%; margin: 1%;">
+    <a href="https://anikem.github.io/">
+      <img alt="Angela Dai" src="pics/speakers/dai.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+  <a href="https://www.3dunderstanding.org/">Angela Dai</a><br>
+    Technical University of Munich
+  </div>
+  
+
+  
+  <div style="width:45%; margin: 1%;">
+    <a href="https://groups.csail.mit.edu/vision/torralbalab/">
+      <img alt="Antonio Torralba" src="pics/speakers/antonio.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+  <a href="https://groups.csail.mit.edu/vision/torralbalab/">Antonio Torralba</a><br>
+    Massachusetts Institute of Technology
+  </div>
+  
+   <div style="width:45%; margin: 1%;">
+    <a href="https://boleizhou.github.io/">
+      <img alt="Ming Lin" src="pics/speakers/bolei.jpg"   height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+  <a href="https://boleizhou.github.io/">Bolei Zhou</a><br>
+    University of California, Los Angeles
+  </div>
+  
+  <div style="width:45%; margin: 1%;">
+    <a href="https://www.cs.princeton.edu/~jiadeng/">
+      <img alt="Jia Deng" src="pics/speakers/jiadeng.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+  <a href="https://www.cs.princeton.edu/~jiadeng/"> Jia Deng</a><br>
+    Princeton University
+  </div>
+
+
+  <div style="width:45%; margin: 1%;">
+    <a href="https://kianaehsani.com/">
+      <img alt="Kiana Ehsani" src="pics/speakers/kiana.jpg" height="200"  width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+    <a href="https://kianaehsani.com/">Kiana Ehsani</a><br>
+    Vercept
+  </div>
+
+
+
+
+
+
+
+
+  <div style="width:45%; margin: 1%;">
+  <a href="">
+   
+  </a><br>
+  <a href=""></a><br>
+  
+</div>
+</div>
 
 
 # Schedule
