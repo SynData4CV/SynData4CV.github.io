@@ -286,7 +286,7 @@ Note that our workshop is non-archival.\
 - Deadline for submission: <strong>March 31th, 11:59 PM Pacific Time</strong>
 - Notification of acceptance: <strong>April 9th, 11:59 PM Pacific Time (Tentative)</strong> 
 - Camera Ready submission deadline: <strong>April 24th, 11:59 PM Pacific Time (Tentative)</strong>
-- Workshop date: <strong>June 18th, 2025 (Full day) (Tentative)</strong>
+- Workshop date: <strong>June 11th, 2025 (Full day) (Tentative)</strong>
 
 
 <!-- ### Join our **[mailing list](https://staging-temp-site.github.io/staging-temp-site.gitub.io/)** for updates. -->
