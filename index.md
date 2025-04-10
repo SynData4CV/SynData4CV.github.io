@@ -284,8 +284,8 @@ Note that our workshop is non-archival.\
 - Challenge winner announcement: <strong>6/18/2023</strong>
 - TBD -->
 - Deadline for submission: <strong>March 31th, 11:59 PM Pacific Time</strong>
-- Notification of acceptance: <strong>April 9th, 11:59 PM Pacific Time (Tentative)</strong> 
-- Camera Ready submission deadline: <strong>April 24th, 11:59 PM Pacific Time (Tentative)</strong>
+- Notification of acceptance: <strong>May 9th, 11:59 PM Pacific Time</strong> 
+- Camera Ready submission deadline: <strong>May 29th, 11:59 PM Pacific Time</strong>
 - Workshop date: <strong>June 11th, 2025 (Full day) (Tentative)</strong>
 
 
