@@ -103,7 +103,56 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
 
 
 # Schedule
-* Stay tuned for updates!
+<table>
+  <tr>
+    <td>09:00 - 09:20</td>
+    <td>Opening (Jieyu Zhang)</td>
+  </tr>
+  <tr>
+    <td>09:20 - 10:00</td>
+    <td>Talk by Yael Vinker</td>
+  </tr>
+  <tr>
+    <td>10:00 - 10:40</td>
+    <td>Talk by Kiana Ehsani</td>
+  </tr>
+  <tr>
+    <td>10:40 - 11:00</td>
+    <td>Break</td>
+  </tr>
+  <tr>
+    <td>11:00 - 11:40</td>
+    <td>Talk by Jia Deng</td>
+  </tr>
+  <tr>
+    <td>11:40 - 13:00</td>
+    <td>Lunch</td>
+  </tr>
+  <tr>
+    <td>13:00 - 14:30</td>
+    <td>Poster Session</td>
+  </tr>
+  <tr>
+    <td>14:30 - 15:10</td>
+    <td>Talk by Bolei Zhou</td>
+  </tr>
+  <tr>
+    <td>15:10 - 15:50</td>
+    <td>Talk by Bharath Hariharan</td>
+  </tr>
+  <tr>
+    <td>15:50 - 16:10</td>
+    <td>Break</td>
+  </tr>
+  <tr>
+    <td>16:10 - 16:50</td>
+    <td>Talk by Angela Dai</td>
+  </tr>
+  <tr>
+    <td>16:50 - 17:20</td>
+    <td>Closing (Zixian Ma)</td>
+  </tr>
+</table>
 
 
 # Poster Session
