@@ -44,13 +44,7 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
 
 
   
-  <div style="width:45%; margin: 1%;">
-    <a href="https://yael-vinker.github.io/website/">
-      <img alt="Yael Vinker" src="pics/speakers/yael.png"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
-    </a><br>
-  <a href="https://yael-vinker.github.io/website/">Yael Vinker</a><br>
-    Massachusetts Institute of Technology
-  </div>
+
   
    <div style="width:45%; margin: 1%;">
     <a href="https://www.cs.cornell.edu/~bharathh/">
@@ -84,7 +78,13 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
     <a href="https://kianaehsani.com/">Kiana Ehsani</a><br>
     Vercept
   </div>
-
+  <div style="width:45%; margin: 1%;">
+    <a href="https://yael-vinker.github.io/website/">
+      <img alt="Yael Vinker" src="pics/speakers/yael.png"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    </a><br>
+  <a href="https://yael-vinker.github.io/website/">Yael Vinker</a><br>
+    Massachusetts Institute of Technology
+  </div>
 
 
 
