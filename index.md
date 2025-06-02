@@ -42,12 +42,13 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
   </div>
   
 
+
   
   <div style="width:45%; margin: 1%;">
-    <a href="https://groups.csail.mit.edu/vision/torralbalab/">
-      <img alt="Antonio Torralba" src="pics/speakers/antonio.jpg"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
+    <a href="https://yael-vinker.github.io/website/">
+      <img alt="Yael Vinker" src="pics/speakers/yael.png"  height="200"   width ="200" style =  "border-radius: 50%; object-fit: cover; ">
     </a><br>
-  <a href="https://groups.csail.mit.edu/vision/torralbalab/">Antonio Torralba</a><br>
+  <a href="https://yael-vinker.github.io/website/">Yael Vinker</a><br>
     Massachusetts Institute of Technology
   </div>
   
