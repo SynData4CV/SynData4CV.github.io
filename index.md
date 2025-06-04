@@ -1,6 +1,10 @@
 ---
 layout: default
 title: Synthetic Data for Computer Vision - CVPR 2025
+description:
+  - CVPR 2025 Workshop
+  - June 11th, 2025, Grand C2
+  - Nashville, TN, United States
 buttons:
   Overview: './index.html'
   Invited Speakers: './index.html#invited-speakers'
@@ -10,10 +14,6 @@ buttons:
   Important Dates: './index.html#important-workshop-dates'
   Related Workshops: './index.html#related-workshops'
   Organizers: './index.html#organizers'
-description:
-  - CVPR 2025 Workshop
-  - June, 2025
-  - Nashville, TN, United States
 ---
 
 <style> 
@@ -26,8 +26,6 @@ description:
 
 # Overview
 <div style="text-align: left; max-width: 800px; margin: auto;">
-<b>CVPR 2025 Workshop<br>June, 2025<br>Nashville, TN, United States</b>
-<br><br>
 The workshop aims to explore the use of synthetic data in training and evaluating computer vision models, as well as in other related domains. During the last decade, advancements in computer vision were catalyzed by the release of painstakingly curated human-labeled datasets. Recently, people have increasingly resorted to synthetic data as an alternative to laborintensive human-labeled datasets for its scalability, customizability, and costeffectiveness. Synthetic data offers the potential to generate large volumes of diverse and high-quality vision data, tailored to specific scenarios and edge cases that are hard to capture in real-world data. However, challenges such as the domain gap between synthetic and real-world data, potential biases in synthetic generation, and ensuring the generalizability of models trained on synthetic data remain. We hope the workshop can provide a forum to discuss and encourage further exploration in these areas.
 </div>
 
