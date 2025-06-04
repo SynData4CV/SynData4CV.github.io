@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Synthetic Data for Computer Vision - CVPR 2025
+title: Synthetic Data for Computer Vision - CVPR 2025, June 11th, 2025, Grand C2, Nashville, TN, United States
 buttons:
   Overview: './index.html'
   Invited Speakers: './index.html#invited-speakers'
