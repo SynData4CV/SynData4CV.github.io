@@ -103,7 +103,7 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
 
 
 # Schedule
-Workshop date: June 11th, 2025 (Full day)
+Workshop date: June 11th, 2025 (Full day)<br><b>Location: Grand C2</b>
 <table>
   <tr>
     <td>09:00 - 09:20</td>
