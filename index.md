@@ -166,19 +166,19 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
 <div style="text-align: left; max-width: 800px; margin: auto;">
 
 <h3><strong>Best Long Paper</strong></h3>
-<p><strong>DemoGen: Synthetic Demonstration Generation for Data-Efficient Visuomotor Policy Learning</strong><br>
+<p><strong><a href="https://openreview.net/forum?id=oOHm8k5Eji">DemoGen: Synthetic Demonstration Generation for Data-Efficient Visuomotor Policy Learning</a></strong><br>
 Zhengrong Xue, Shuying Deng, Zhenyang Chen, Yixuan Wang, Zhecheng Yuan, Huazhe Xu</p>
 
 <h3><strong>Best Long Paper Runner-up</strong></h3>
-<p><strong>Buildee: A 3D Simulation Framework for Scene Exploration and Reconstruction with Understanding</strong><br>
+<p><strong><a href="https://openreview.net/forum?id=1LmsiOaMTy">Buildee: A 3D Simulation Framework for Scene Exploration and Reconstruction with Understanding</a></strong><br>
 Clémentin Boittiaux, Vincent Lepetit</p>
 
 <h3><strong>Best Short Paper</strong></h3>
-<p><strong>BLIP3-KALE: Knowledge Augmented Large-Scale Dense Captions</strong><br>
+<p><strong><a href="https://openreview.net/forum?id=UyPo2zzagc">BLIP3-KALE: Knowledge Augmented Large-Scale Dense Captions</a></strong><br>
 Anas Awadalla, Le Xue, Manli Shu, An Yan, Jun Wang, Senthil Purushwalkam, Sheng Shen, Hannah Lee, Oscar Lo, Jae Sung Park, Etash Kumar Guha, Silvio Savarese, Ludwig Schmidt, Yejin Choi, Caiming Xiong, +1 more author</p>
 
 <h3><strong>Best Short Paper Runner-up</strong></h3>
-<p><strong>Learning to Blur is Learning to Deblur: Realistic Synthetic UHD Blurred Image via Diffusion</strong><br>
+<p><strong><a href="https://openreview.net/forum?id=Dmk5mUxKp2">Learning to Blur is Learning to Deblur: Realistic Synthetic UHD Blurred Image via Diffusion</a></strong><br>
 Xin Su, Xiuyi Jia, Chen Wu, Dianjie Lu, Guijuan Zhang, Yang Wen, Zhuoran Zheng</p>
 
 </div>
