@@ -165,21 +165,21 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
 # Awards
 <div style="text-align: left; max-width: 800px; margin: auto;">
 
-### 🏆 **Best Long Paper**
-**DemoGen: Synthetic Demonstration Generation for Data-Efficient Visuomotor Policy Learning**  
-Zhengrong Xue, Shuying Deng, Zhenyang Chen, Yixuan Wang, Zhecheng Yuan, Huazhe Xu
+<h3><strong>Best Long Paper</strong></h3>
+<p><strong>DemoGen: Synthetic Demonstration Generation for Data-Efficient Visuomotor Policy Learning</strong><br>
+Zhengrong Xue, Shuying Deng, Zhenyang Chen, Yixuan Wang, Zhecheng Yuan, Huazhe Xu</p>
 
-### 🥈 **Best Long Paper Runner-up**
-**Buildee: A 3D Simulation Framework for Scene Exploration and Reconstruction with Understanding**  
-Clémentin Boittiaux, Vincent Lepetit
+<h3><strong>Best Long Paper Runner-up</strong></h3>
+<p><strong>Buildee: A 3D Simulation Framework for Scene Exploration and Reconstruction with Understanding</strong><br>
+Clémentin Boittiaux, Vincent Lepetit</p>
 
-### 🏆 **Best Short Paper**
-**BLIP3-KALE: Knowledge Augmented Large-Scale Dense Captions**  
-Anas Awadalla, Le Xue, Manli Shu, An Yan, Jun Wang, Senthil Purushwalkam, Sheng Shen, Hannah Lee, Oscar Lo, Jae Sung Park, Etash Kumar Guha, Silvio Savarese, Ludwig Schmidt, Yejin Choi, Caiming Xiong, +1 more author
+<h3><strong>Best Short Paper</strong></h3>
+<p><strong>BLIP3-KALE: Knowledge Augmented Large-Scale Dense Captions</strong><br>
+Anas Awadalla, Le Xue, Manli Shu, An Yan, Jun Wang, Senthil Purushwalkam, Sheng Shen, Hannah Lee, Oscar Lo, Jae Sung Park, Etash Kumar Guha, Silvio Savarese, Ludwig Schmidt, Yejin Choi, Caiming Xiong, +1 more author</p>
 
-### 🥈 **Best Short Paper Runner-up**
-**Learning to Blur is Learning to Deblur: Realistic Synthetic UHD Blurred Image via Diffusion**  
-Xin Su, Xiuyi Jia, Chen Wu, Dianjie Lu, Guijuan Zhang, Yang Wen, Zhuoran Zheng
+<h3><strong>Best Short Paper Runner-up</strong></h3>
+<p><strong>Learning to Blur is Learning to Deblur: Realistic Synthetic UHD Blurred Image via Diffusion</strong><br>
+Xin Su, Xiuyi Jia, Chen Wu, Dianjie Lu, Guijuan Zhang, Yang Wen, Zhuoran Zheng</p>
 
 </div>
 
