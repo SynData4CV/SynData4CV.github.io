@@ -163,7 +163,25 @@ The workshop aims to explore the use of synthetic data in training and evaluatin
 * **Poster Requirements:** Please follow the [CVPR 2025 main conference poster requirements](https://cvpr.thecvf.com/Conferences/2025/AuthorGuidelines)
 
 # Awards
-* Stay tuned for updates!
+<div style="text-align: left; max-width: 800px; margin: auto;">
+
+### 🏆 **Best Long Paper**
+**DemoGen: Synthetic Demonstration Generation for Data-Efficient Visuomotor Policy Learning**  
+Zhengrong Xue, Shuying Deng, Zhenyang Chen, Yixuan Wang, Zhecheng Yuan, Huazhe Xu
+
+### 🥈 **Best Long Paper Runner-up**
+**Buildee: A 3D Simulation Framework for Scene Exploration and Reconstruction with Understanding**  
+Clémentin Boittiaux, Vincent Lepetit
+
+### 🏆 **Best Short Paper**
+**BLIP3-KALE: Knowledge Augmented Large-Scale Dense Captions**  
+Anas Awadalla, Le Xue, Manli Shu, An Yan, Jun Wang, Senthil Purushwalkam, Sheng Shen, Hannah Lee, Oscar Lo, Jae Sung Park, Etash Kumar Guha, Silvio Savarese, Ludwig Schmidt, Yejin Choi, Caiming Xiong, +1 more author
+
+### 🥈 **Best Short Paper Runner-up**
+**Learning to Blur is Learning to Deblur: Realistic Synthetic UHD Blurred Image via Diffusion**  
+Xin Su, Xiuyi Jia, Chen Wu, Dianjie Lu, Guijuan Zhang, Yang Wen, Zhuoran Zheng
+
+</div>
 
 # Accepted Papers (sorted by alphabet)
 <table>
