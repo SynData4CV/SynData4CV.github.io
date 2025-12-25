@@ -63,10 +63,11 @@
     
   .page-header1 {
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
     background-position: center;
-    padding-bottom: 1rem;
+    padding: 2rem 1rem;
     background-color: #ffffff;
+    min-height: 300px;
 
     {% if page.path contains 'cvpr2024.md' %}
     background-image: url('pics/seattle_view.jpg');
@@ -91,6 +92,43 @@
   border-radius: 0.3rem;
   transition: color 0.2s, background-color 0.2s, border-color 0.2s;
     }
+
+  /* Mobile responsive styles */
+  @media screen and (max-width: 768px) {
+    .page-header1 {
+      background-size: cover;
+      min-height: 250px;
+      padding: 1.5rem 0.5rem;
+    }
+    .project-name {
+      font-size: 1.5rem !important;
+    }
+    .project-tagline {
+      font-size: 1rem !important;
+    }
+    .btn {
+      font-size: 0.8rem !important;
+      padding: 0.4rem 0.6rem;
+      margin: 0.3rem;
+    }
+  }
+
+  @media screen and (max-width: 480px) {
+    .page-header1 {
+      min-height: 200px;
+      padding: 1rem 0.5rem;
+    }
+    .project-name {
+      font-size: 1.2rem !important;
+    }
+    .project-tagline {
+      font-size: 0.9rem !important;
+    }
+    .btn {
+      font-size: 0.7rem !important;
+      padding: 0.3rem 0.5rem;
+    }
+  }
   </style>
     <section class="page-header page-header1">
       <!-- <img alt="logo" src="pics/placehold-logo.svg" class = "logo" > -->
