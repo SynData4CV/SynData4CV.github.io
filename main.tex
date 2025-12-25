@@ -1,0 +1,251 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{hyperref}
+\usepackage{color}
+\hypersetup{
+    colorlinks=true,
+    }
+    
+
+
+\title{Synthetic Data for Computer Vision\\Workshop Proposal}
+\author{Jieyu Zhang, Zixian Ma, Rundong Luo, \\Weikai Huang, Shobhita Sundaram, Wei-Chiu Ma, Ranjay Krishna}
+\date{October 2025}
+
+\input{macros}
+
+\begin{document}
+
+\maketitle
+
+\section{Topic}
+\subsection{Workshop title and acronym}
+\begin{itemize}
+    \item Workshop title: \textbf{The 3rd Workshop on Synthetic Data for Computer Vision}
+    \item Workshop acronym: \textbf{SynData4CV}
+\end{itemize}
+
+    \subsection{Topics that will be covered in the workshop}
+
+The workshop aims to explore the use of synthetic data in training and evaluating computer vision models, as well as other related domains. During the last decade, advances in computer vision have been catalyzed by the release of meticulously curated human-labeled datasets~\cite{5206848,lin2014microsoft,krishna2017visual}. Recently, people have increasingly resorted to synthetic data as an alternative to labor-intensive human-labeled datasets for its scalability, customizability, and cost-effectiveness~\cite{li2023benchmarking,Shipard2023DiversityID,Sariyildiz2022FakeIT,nguyen2023improving,yang2023alip,li2023stablellava}. Synthetic data offers the potential to generate large volumes of diverse and high-quality vision data, tailored to specific scenarios and edge cases that are hard to capture in real-world data. However, challenges such as the domain gap between synthetic and real-world data~\cite{tobin2017domain,tremblay2018training}, potential biases in synthetic generation~\cite{yu2023large}, and the generalizability of models trained on synthetic data~\cite{mikami2021scaling,he2022synthetic} remain. We hope that the workshop can provide a forum for discussion and encouragement of further exploration in these areas.
+
+In particular, we are interested in the following aspects of synthetic data:
+
+\begin{itemize}
+    \item  \textbf{Effectiveness:} What is the most effective way to generate and leverage synthetic data? Does synthetic data need to “look” realistic?
+    \item \textbf{Efficiency and scalability:} Can we make synthetic data generation more efficient and scalable without much sacrifice on the quality?
+    \item \textbf{Benchmark and evaluation:} What benchmark and evaluation methods are needed to assess the efficacy of synthetic data for computer vision?
+    \item \textbf{Risks and ethical considerations:} How can we mitigate the risks of generating and using synthetic data? How do we address relevant ethical questions, such as bias amplification in synthetic datasets? 
+    \item \textbf{Applications:} In addition to existing attempts on leveraging synthetic data for training visual recognition~\cite{li2023benchmarking,Shipard2023DiversityID,Sariyildiz2022FakeIT} and vision-language models~\cite{nguyen2023improving,yang2023alip,li2023stablellava}, what are other tasks in computer vision or other related fields (\emph{e.g.}, robotics, NLP) that could benefit from synthetic data?
+    \item \textbf{Other open problems:} How do we decide which type of data to use, synthetic or real-world data? What is the optimal way to combine both if both are available? How much real-world data do we need (in the long run)? 
+
+\end{itemize}
+
+% \begin{itemize}
+%     \item Human or synthetic data for training
+%         \begin{itemize}
+%             \item Supervised v.s. distillation
+%             \item RLHF v.s. RLAIF
+%             \item Cost
+%             \item Realisticness
+%         \end{itemize}
+%     \item Human or synthetic data for evaluation
+%         \begin{itemize}
+%             \item manual evaluation v.s. model evaluation
+%         \end{itemize}
+% \end{itemize}
+
+\subsection{Broader impact statement}
+% Describe why the workshop is relevant to the community and how relevant the topics or discussion are beyond the CVPR audience.
+
+Our workshop lies at the intersection of cutting-edge data generation techniques and computer vision advancements. With the explosive growth in the demand for high-quality labeled data and recent advances in generative models able to generate high-fidelity images/videos, synthetic data emerges as a promising solution to many data challenges in computer vision, including data scarcity, data bias, data privacy, etc. 
+In addition, it offers opportunities for algorithm validation, enabling researchers to test their models under controlled, reproducible conditions, spanning a variety of scenarios, lighting conditions, and occlusions that might be rare or even impossible to capture in the real world. Moreover, the ethical concerns associated with data collection, especially in sensitive contexts, make synthetic data a preferable choice in many situations such as medical imaging.
+Given the potential of synthetic data in computer vision, we believe that a workshop focusing on this topic will dramatically advance this field and have a widespread impact.
+
+\subsection{Ethical considerations}
+While synthetic data has the potential to revolutionize various fields in computer vision and push their boundaries, it is a double-edged sword. It can also be utilized by individuals with malicious intentions to attack and harm the community. For instance, with the advent of generative AI models, photorealistic synthetic data may be used to spread misinformation. Training on biased synthetic data may lead to the development of flawed models and further exacerbate inequality. To combat the malicious use of synthetic data and raise awareness among the community, we explicitly solicit contributions to related topics (see the topics section above) and invite expert speakers in relevant fields to discuss their insights.
+
+\subsection{Relationship to previous workshops}
+
+% Describe how this proposal relates to previous workshops held at CVPR/ICCV/ECCV/etc. in the last three years.
+% If you are aware of other workshop proposals being submitted to CVPR'24 that may be suitable to form a "workshop track" please mention this in your proposal (see details above on workshop tracks).
+
+
+% \rundong{
+Our workshop will build upon the momentum generated by previous workshops in the field. Two key related workshops in recent years include the ``Machine Learning with Synthetic Data'' workshop at CVPR 2022 and the``Synthetic Data for Autonomous Systems (SDAS)'' workshop at CVPR 2023.
+
+The ``Machine Learning with Synthetic Data'' workshop at CVPR 2022 covered a broad range of applications across machine learning. In contrast, our workshop focuses on the specific challenges and methods for using synthetic data in vision, multi-modal, and embodied AI tasks, providing a more targeted perspective. 
+Compared to the ``Synthetic Data for Autonomous Systems (SDAS)'' workshop at CVPR 2023, which  concentrated on improving autonomous systems' performance using synthetic data, our workshop takes a more holistic view, addressing a wider range of computer vision subfields and applications where synthetic data plays a critical role.
+
+% On the other hand, the ``Synthetic Data for Autonomous Systems (SDAS)'' workshop at CVPR 2023 concentrated on improving autonomous systems' performance using synthetic data, including robotics and autonomous vehicles. Although critical to that domain, this workshop left many broader synthetic data challenges across other vision tasks unexplored. Our workshop takes a more holistic view, addressing a wide range of computer vision subfields and applications where synthetic data plays a critical role.
+
+\begin{figure}[h]
+    \centering
+    \begin{minipage}[b]{0.49\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{figures/IMG_3242.jpg}
+    \end{minipage}
+    \hfill
+    \begin{minipage}[b]{0.49\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{figures/IMG_3240.jpg}
+    \end{minipage}
+    \caption{Our SynData4CV workshop at CVPR 2024.}
+    \label{fig:workshop-2024}
+\end{figure}
+
+\begin{figure}[h]
+    \centering
+    \begin{minipage}[c]{0.49\textwidth}
+        \centering
+        \includegraphics[width=\textwidth,angle=-90]{figures/CVPR25_opening.JPG}
+    \end{minipage}
+    \hfill
+    \begin{minipage}[c]{0.49\textwidth}
+        \centering
+        \includegraphics[width=\textwidth,angle=-90]{figures/CVPR25_bolei.JPG}
+    \end{minipage}
+    \caption{Our SynData4CV workshop at CVPR 2025.}
+    \label{fig:workshop-2025}
+\end{figure}
+
+At CVPR 2024, our first SynData4CV workshop\footnote{Link to our website: \href{https://syndata4cv.github.io/}{https://syndata4cv.github.io/}} (see Figure~\ref{fig:workshop-2024} and \href{https://drive.google.com/drive/folders/1JK5_AEihbD8OA3iaqWW-pbn562scp7vg?usp=sharing}{here}) was successfully held, featuring a series of high-quality talks, as well as both poster and oral presentations. The event attracted significant participation, fostering dynamic discussions and collaborations across multiple subfields. At CVPR 2025, our second SynData4CV workshop (see Figure~\ref{fig:workshop-2025}) continued this success with even greater engagement from the community. Building on these successes, we believe our 3rd SynData4CV workshop could further advance synthetic data methodologies within the broader landscape of computer vision, offering a unique platform for the research community to exchange ideas and collaborate.
+% }
+
+
+% Previous related workshops include the ``Machine Learning with Synthetic Data'' workshop at CVPR 2022, the ``Synthetic Data for Autonomous Systems (SDAS)" workshop at CVPR 2023.
+% The ``Machine Learning with Synthetic Data" workshop focuses on a broader scope of machine learning, while our workshop dives deeper into challenges and methodologies specific to vision/multi-modal tasks.
+% On the other hand, the ``Synthetic Data for Autonomous Systems (SDAS)" workshop considers using synthetic data to bootstrap and improve the performance of autonomous systems (inclusive of robots and autonomous vehicles), while our workshop takes a broader lens, addressing synthetic data challenges and applications across various computer vision subfields.
+% In summary, our workshop is unique in combining synthetic data and computer vision and we believe it merits its own workshop.
+
+\section{Organizers and Speakers}
+% \subsection{List of organizers}
+% Please make sure that all organizers are listed as authors of the workshop proposal submission in CMT3.
+% Primary organizer responsible for liaising with the workshop chairs.
+
+\subsection{Organizing team’s experience and background}
+% try to dump more citations -- i just randomly listed a few
+The organizing team comprises both senior and junior members of the computer vision community, who have been at the forefront of leveraging synthetic data for a wide range of tasks (\emph{e.g.}, perception, manipulation) and domains (\emph{e.g.}, vision, robotics, natural language processing). Their diverse and extensive experience makes them an excellent candidate for organizing this workshop.
+For example, the team has explored how to generate synthetic data to better evaluate vision language models in a series of works~\cite{ma2023crepe,hsieh2023sugarcrepe,ray2023cola,zhang2024task}, and improving the evaluation of synthetic images generated with text-to-image models~\cite{hu2023tifa}. Moreover, the team has shown how to use realistic synthetic data to train and evaluate intelligent systems such as language models~\cite{hsieh2023distilling,yu2023large}, self-driving vehicles~\cite{manivasagam2020lidarsim,yang2023unisim}, robot arms~\cite{duan2023ar2,lin2023mira}. They have also shown how to learn articulated object generative models~\cite{luo2024physpart} and 3D object discovery models~\cite{luo2024unsupervised} from synthetic data.
+In addition, their work has investigated the use of synthetic images as a pre-training data source for visual recognition models~\cite{baradad2022procedural,jahanian2022generative,tian2023stablerep}, and for training and evaluating perceptual metrics~\cite{fu2023dreamsim}.
+\begin{itemize}
+    \item Jieyu Zhang, 6th year PhD student, University of Washington [\href{https://jieyuz2.github.io/}{Link to Bio}] (primary contact)
+    \item Zixian Ma, 3rd year PhD student, University of Washington [\href{https://zixianma.github.io/}{Link to Bio}]
+    \item Rundong Luo, 2nd year PhD student, Cornell University [\href{https://red-fairy.github.io/}{Link to Bio}]
+    \item Weikai Huang, Undergraduate Student, University of Washington [\href{https://weikaih04.github.io/}{Link to Bio}]
+    \item Shobhita Sundaram, 3rd year PhD student, Massachusetts Institute of Technology [\href{https://ssundaram21.github.io/}{Link to Bio}]
+    \item Wei-Chiu Ma, Assistant Professor, Cornell University [\href{https://people.csail.mit.edu/weichium/}{Link to Bio}]
+    \item Ranjay Krishna, Assistant Professor, University of Washington [\href{https://ranjaykrishna.com/index.html}{Link to Bio}]
+\end{itemize}
+
+% add each person's name and bio below
+
+
+\subsection{Invited speakers}
+We emphasize the high quality and diversity of the invited talks by inviting pioneers in the field from academia, industrial companies, and research institutes with diverse perspectives on both the opportunities and risks of using synthetic data for computer vision. We will also ensure that only high-quality submissions are selected for paper presentations. Our confirmed and tentative list of speakers is as follows, where we highlight their diverse research focuses.
+\begin{itemize}
+        \item Jia Deng, Princeton University (confirmed) [\href{https://www.cs.princeton.edu/~jiadeng/}{Link to Bio}]
+        \item Manling Li, Northwestern University (confirmed) [\href{https://limanling.github.io/}{Link to Bio}]
+        \item Georgia Gkioxari, Caltech (confirmed) [\href{https://www.cms.caltech.edu/people/georgia-gkioxari}{Link to Bio}]
+        \item Andrew Owens, Cornell Tech (confirmed) [\href{https://andrewowens.com/}{Link to Bio}]
+        \item Nupur Kumari, Carnegie Mellon University (confirmed) [\href{https://nupurkmr9.github.io/}{Link to Bio}]
+        \item Antonio Torralba, MIT (tentative) [\href{http://web.mit.edu/torralba/www/}{Link to Bio}]
+\end{itemize}
+
+
+% Please list only speakers that have confirmed or tentatively confirmed their attendance, and who are willing to deliver a virtual talk if necessary. For each speaker, (a) please indicate if confirmation is tentative or final, (b) provide a link to their homepage, and (c) explain their relevance to the workshop. We recommend finding invited speakers who will not give the same talk at multiple workshops; otherwise, the workshops may be asked to merge. 
+
+\subsection{Diversity}
+Our workshop firmly supports diversity, equity, and inclusion in all aspects. Our invited speakers comprise top-notch researchers from both academia and industry, spanning various levels of seniority, different areas, and genders. The organizing team also exemplifies diversity, including junior and senior Ph.D. students across genders, postdoctoral researchers, and faculty members, all of whom are active researchers in the field. The workshop will explore a diverse range of research topics. While our primary focus is on investigating the use of synthetic data for computer vision, we also anticipate contributions from participants specializing in other domains (\emph{e.g.}, animal science, agriculture, natural language processing, robotics, etc.). We believe that diverse backgrounds and perspectives can foster and significantly contribute to discussions. We are committed to promoting an inclusive environment where all voices can be heard.
+
+\section{Format and Logistics}
+\subsection{Format}
+% Format: CVPR 2024 will be in-person.  We will endeavour to support workshops that are in-person, mixed in-person and virtual attendance. This decision will be made by the CVPR 2023 organizers as needed. Organizers should specify in advance their intended format. In particular, describe how you will support virtual attendance if the workshop is partially virtual.
+The format of the workshop is intended to be hybrid (mixed in-person and virtual attendance). For virtual attendance, we will use Zoom platform for speakers and workshop attendees to participate.
+Our team has extensive experience running in-person workshops. The team has also accumulated experience running virtual workshops at CVPR2022, ECCV2022, and running hybrid workshops at ICCV2023, CVPR 2024, and CVPR 2025.
+
+\subsection{Expected workshop size}
+We expect a medium (100-300 attendees) workshop size.
+
+\subsection{Request for full-day workshop}
+We have a good number of confirmed invited speakers (7 speakers in total) for providing diverse viewpoints on the topic. To allocate reasonable amount of time for each talk, and to reserve time for oral and poster presentations, we would like to apply for a full-day workshop. The tentative schedule is planned below.
+
+\subsection{Schedule}
+The tentative workshop schedule is as follows:
+
+% \rundong{
+\begin{tabular}{rl}
+    \\
+    09:00 - 09:10 & Opening Remarks \\
+    09:10 - 09:50 & Invited Talk (30 min talk / 10 min Q\&A, Discussion) \\
+    09:50 - 10:30 & Invited Talk (30 min talk / 10 min Q\&A, Discussion) \\
+    10:30 - 10:50 & Coffee Break \\
+    10:50 - 11:30 & Invited Talk (30 min talk / 10 min Q\&A, Discussion) \\
+    11:30 - 12:10 & Invited Talk (30 min talk / 10 min Q\&A, Discussion) \\
+    12:10 - 13:30 & Lunch \\
+    13:30 - 14:30 & Poster Session \\
+    14:30 - 15:10 & Invited Talk (30 min talk / 10 min Q\&A, Discussion) \\
+    15:10 - 15:50 & Invited Talk (30 min talk / 10 min Q\&A, Discussion) \\
+    15:50 - 16:10 & Coffee Break \\
+    16:50 - 17:05 & Submitted Paper Oral Talk (10 min talk / 5 min Q\&A, Discussion) \\
+    17:05 - 17:20 & Submitted Paper Oral Talk (10 min talk / 5 min Q\&A, Discussion) \\
+    17:20 - 17:30 & Ending Remarks \\
+\end{tabular}
+% }
+
+
+% \subsection{Paper submissions and posters}
+% If including paper submissions: (a) Tentative program committee, (b), Paper review timeline, (c) Will these papers be published in proceedings? Note that paper submissions must adhere to the CVPR 2024 paper submission style, format, and length restrictions.
+\subsection{Paper submission}
+% \rundong{
+We invite submissions in the following two forms: 4-page extended abstracts or 8-page full papers. Last year, we received a large number of submissions (more than 50), where 2 top-quality papers were selected for oral presentations and 40 papers were accepted to present at the poster session. Building on last year’s success, we will continue to feature 2-3 oral presentations and organize a poster session for all accepted papers. Additionally, we will present awards for Best Long Paper, Best Paper Runner-up, and Best Short Paper with oral presentation.
+% }
+
+
+\paragraph{Program committee.}
+Here is our tentative program committee list:
+\begin{itemize}
+    \item Lucy Chai, Google (confirmed)
+    \item Chen-Hsuan Lin,  Nvidia (confirmed)
+    \item Chun-Liang Li, Google (confirmed)
+    \item Jiafei Duan, University of Washington (confirmed)
+    \item Matt Deitke, University of Washington / Allen Institute for AI (tentative)
+    \item Jordan Shipard, Queensland University of Technology, Australia (tentative)
+    \item Weijia Wu, Zhejiang University (tentative)
+    \item Mert Bulent Sariyildiz, NAVER LABS Europe (tentative)
+    \item Paola Cascante-Bonilla, Rice University (tentative)
+    
+
+\end{itemize}
+
+\paragraph{Paper review timeline.}
+Below are the deadlines associated with paper submission and reviewing at the workshop:
+
+\begin{tabular}{rl}
+    \\
+    December 20, 2025 & Workshop website and submission portal ready \\
+    March 01, 2026 & Workshop paper submission deadline \\
+    March 07, 2026 & Reviews due \\
+    March 15, 2026 & Notification of acceptance to authors \\
+    March 30, 2026 & Final list of invited speakers \\
+    April 7, 2026 & Camera-ready due \\
+    May 9, 2026 & Workshop program finalized \\
+    June 3/4, 2026 & Date of the workshop \\
+\end{tabular}
+
+
+\paragraph{Publication in proceedings.}
+Papers are not archival and will not be included in the Proceedings of CVPR 2026. In the interests of fostering a freer exchange of ideas, we welcome both novel and previously-published work.
+
+
+% If in-person posters are included, how many are expected?
+% Special space or equipment requests, if any.
+\subsection{Poster presentation}
+% \rundong{
+We expect to have 30-40 posters at the workshop. Based on last year’s success, we request a larger room or an adjacent space outside the workshop conference room for the poster presentation to ensure enough space for interaction and discussion. Hosting the poster session in a more spacious area will better accommodate the number of participants and enhance the overall experience for attendees.
+% }
+
+\bibliographystyle{plain}
+\bibliography{main}
+
+\end{document}

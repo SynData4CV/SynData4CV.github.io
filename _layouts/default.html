@@ -19,7 +19,8 @@
   <!-- add navigation bar -->
   <nav>
     <ul>
-      <li><a href="/">CVPR 2025 Workshop</a></li>
+      <li><a href="/">CVPR 2026 Workshop</a></li>
+      <li><a href="/cvpr2025.html">CVPR 2025 Workshop (Previous)</a></li>
       <li><a href="/cvpr2024.html">CVPR 2024 Workshop (Previous)</a></li>
     </ul>
   </nav>
@@ -69,8 +70,10 @@
 
     {% if page.path contains 'cvpr2024.md' %}
     background-image: url('pics/seattle_view.jpg');
-    {% elsif page.path contains 'index.md' %}
+    {% elsif page.path contains 'cvpr2025.md' %}
     background-image: url('pics/nashvile_view.jpg');
+    {% elsif page.path contains 'index.md' %}
+    background-image: url('pics/denver_view.jpg');
     {% endif %}
   }
   .page-header2 {
