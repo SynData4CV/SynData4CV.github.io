@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Synthetic Data for Computer Vision - CVPR 2026
+title: 3rd Synthetic Data for Computer Vision - CVPR 2026
 description:
   - CVPR 2026 Workshop
   - June 2026
@@ -32,13 +32,15 @@ During the last decade, advances in computer vision have been catalyzed by the r
 
 This workshop aims to provide a forum for discussion and encouragement of further exploration in these areas.
 
-**Topics of interest include, but are not limited to:**
-- **Effectiveness:** What is the most effective way to generate and leverage synthetic data? Does synthetic data need to "look" realistic?
-- **Efficiency and scalability:** Can we make synthetic data generation more efficient and scalable without much sacrifice on the quality?
-- **Benchmark and evaluation:** What benchmark and evaluation methods are needed to assess the efficacy of synthetic data for computer vision?
-- **Risks and ethical considerations:** How can we mitigate the risks of generating and using synthetic data? How do we address relevant ethical questions, such as bias amplification in synthetic datasets?
-- **Applications:** What are other tasks in computer vision or other related fields (e.g., robotics, NLP) that could benefit from synthetic data?
-- **Other open problems:** How do we decide which type of data to use, synthetic or real-world data? What is the optimal way to combine both if both are available?
+<strong>Topics of interest include, but are not limited to:</strong>
+<ul>
+<li><strong>Effectiveness:</strong> What is the most effective way to generate and leverage synthetic data? Does synthetic data need to "look" realistic?</li>
+<li><strong>Efficiency and scalability:</strong> Can we make synthetic data generation more efficient and scalable without much sacrifice on the quality?</li>
+<li><strong>Benchmark and evaluation:</strong> What benchmark and evaluation methods are needed to assess the efficacy of synthetic data for computer vision?</li>
+<li><strong>Risks and ethical considerations:</strong> How can we mitigate the risks of generating and using synthetic data? How do we address relevant ethical questions, such as bias amplification in synthetic datasets?</li>
+<li><strong>Applications:</strong> What are other tasks in computer vision or other related fields (e.g., robotics, NLP) that could benefit from synthetic data?</li>
+<li><strong>Other open problems:</strong> How do we decide which type of data to use, synthetic or real-world data? What is the optimal way to combine both if both are available?</li>
+</ul>
 
 </div>
 
@@ -54,27 +56,11 @@ This workshop aims to provide a forum for discussion and encouragement of furthe
   </div>
 
   <div style="width:45%; margin: 1%;">
-    <a href="https://limanling.github.io/">
-      <img alt="Manling Li" src="pics/speakers/manling.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
-    </a><br>
-    <a href="https://limanling.github.io/">Manling Li</a><br>
-    Northwestern University
-  </div>
-
-  <div style="width:45%; margin: 1%;">
     <a href="https://www.cms.caltech.edu/people/georgia-gkioxari">
       <img alt="Georgia Gkioxari" src="pics/speakers/georgia.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
     </a><br>
     <a href="https://www.cms.caltech.edu/people/georgia-gkioxari">Georgia Gkioxari</a><br>
     Caltech
-  </div>
-
-  <div style="width:45%; margin: 1%;">
-    <a href="https://andrewowens.com/">
-      <img alt="Andrew Owens" src="pics/speakers/andrewowens.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
-    </a><br>
-    <a href="https://andrewowens.com/">Andrew Owens</a><br>
-    Cornell Tech
   </div>
 
   <div style="width:45%; margin: 1%;">
@@ -86,11 +72,27 @@ This workshop aims to provide a forum for discussion and encouragement of furthe
   </div>
 
   <div style="width:45%; margin: 1%;">
+    <a href="https://limanling.github.io/">
+      <img alt="Manling Li" src="pics/speakers/manling.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
+    </a><br>
+    <a href="https://limanling.github.io/">Manling Li</a><br>
+    Northwestern University
+  </div>
+
+  <div style="width:45%; margin: 1%;">
+    <a href="https://andrewowens.com/">
+      <img alt="Andrew Owens" src="pics/speakers/andrewowens.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
+    </a><br>
+    <a href="https://andrewowens.com/">Andrew Owens</a><br>
+    Cornell Tech
+  </div>
+
+  <div style="width:45%; margin: 1%;">
     <a href="http://web.mit.edu/torralba/www/">
       <img alt="Antonio Torralba" src="pics/speakers/antonio.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
     </a><br>
     <a href="http://web.mit.edu/torralba/www/">Antonio Torralba</a><br>
-    MIT
+    Massachusetts Institute of Technology
   </div>
 
 </div>
@@ -197,6 +199,15 @@ We invite submissions on topics related to synthetic data for computer vision, i
 
   <!-- Organizer 2 -->
   <div style="width:45%; margin: 1%;">
+    <a href="https://weikaih04.github.io/">
+      <img alt="Weikai Huang" src="pics/organizers/weikaihuang.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
+    </a><br>
+    <a href="https://weikaih04.github.io/">Weikai Huang</a><br>
+    University of Washington
+  </div>
+
+  <!-- Organizer 3 -->
+  <div style="width:45%; margin: 1%;">
     <a href="https://zixianma.github.io/">
       <img alt="Zixian Ma" src="pics/organizers/zixianma.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
     </a><br>
@@ -204,22 +215,13 @@ We invite submissions on topics related to synthetic data for computer vision, i
     University of Washington
   </div>
 
-  <!-- Organizer 3 -->
+  <!-- Organizer 4 -->
   <div style="width:45%; margin: 1%;">
     <a href="https://red-fairy.github.io/">
       <img alt="Rundong Luo" src="pics/organizers/rundongluo.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
     </a><br>
     <a href="https://red-fairy.github.io/">Rundong Luo</a><br>
     Cornell University
-  </div>
-
-  <!-- Organizer 4 -->
-  <div style="width:45%; margin: 1%;">
-    <a href="https://weikaih04.github.io/">
-      <img alt="Weikai Huang" src="pics/organizers/weikaihuang.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
-    </a><br>
-    <a href="https://weikaih04.github.io/">Weikai Huang</a><br>
-    University of Washington
   </div>
 
   <!-- Organizer 5 -->
@@ -248,4 +250,7 @@ We invite submissions on topics related to synthetic data for computer vision, i
     <a href="https://ranjaykrishna.com/index.html">Ranjay Krishna</a><br>
     University of Washington
   </div>
+
+  <!-- Empty placeholder to keep last item left-aligned -->
+  <div style="width:45%; margin: 1%;"></div>
 </div>
