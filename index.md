@@ -45,6 +45,9 @@ This workshop aims to provide a forum for discussion and encouragement of furthe
 </div>
 
 # Invited Speakers
+TBD
+
+<!--
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
 
   <div style="width:45%; margin: 1%;">
@@ -96,6 +99,7 @@ This workshop aims to provide a forum for discussion and encouragement of furthe
   </div>
 
 </div>
+-->
 
 # Schedule
 <br><b>Workshop date: June 2026 (Full day)</b><br><b>Location: TBD</b>
