@@ -102,65 +102,45 @@ TBD
 -->
 
 # Schedule
-<br><b>Workshop date: June 2026 (Full day)</b><br><b>Location: TBD</b>
+TBD
+
+<!--
+<br><b>Workshop date: June 2026 (Half day)</b><br><b>Location: TBD</b>
 <table>
   <tr>
-    <td>09:00 - 09:10</td>
+    <td>13:30 - 13:40</td>
     <td>Opening Remarks</td>
   </tr>
   <tr>
-    <td>09:10 - 09:50</td>
+    <td>13:40 - 14:20</td>
     <td>Invited Talk 1 (30 min talk / 10 min Q&A)</td>
   </tr>
   <tr>
-    <td>09:50 - 10:30</td>
+    <td>14:20 - 15:00</td>
     <td>Invited Talk 2 (30 min talk / 10 min Q&A)</td>
   </tr>
   <tr>
-    <td>10:30 - 10:50</td>
-    <td>Coffee Break</td>
+    <td>15:00 - 15:30</td>
+    <td>Coffee Break + Poster Session</td>
   </tr>
   <tr>
-    <td>10:50 - 11:30</td>
+    <td>15:30 - 16:10</td>
     <td>Invited Talk 3 (30 min talk / 10 min Q&A)</td>
   </tr>
   <tr>
-    <td>11:30 - 12:10</td>
+    <td>16:10 - 16:50</td>
     <td>Invited Talk 4 (30 min talk / 10 min Q&A)</td>
   </tr>
   <tr>
-    <td>12:10 - 13:30</td>
-    <td>Lunch</td>
+    <td>16:50 - 17:20</td>
+    <td>Panel Discussion</td>
   </tr>
   <tr>
-    <td>13:30 - 14:30</td>
-    <td>Poster Session</td>
-  </tr>
-  <tr>
-    <td>14:30 - 15:10</td>
-    <td>Invited Talk 5 (30 min talk / 10 min Q&A)</td>
-  </tr>
-  <tr>
-    <td>15:10 - 15:50</td>
-    <td>Invited Talk 6 (30 min talk / 10 min Q&A)</td>
-  </tr>
-  <tr>
-    <td>15:50 - 16:10</td>
-    <td>Coffee Break</td>
-  </tr>
-  <tr>
-    <td>16:10 - 16:25</td>
-    <td>Oral Presentation 1 (10 min talk / 5 min Q&A)</td>
-  </tr>
-  <tr>
-    <td>16:25 - 16:40</td>
-    <td>Oral Presentation 2 (10 min talk / 5 min Q&A)</td>
-  </tr>
-  <tr>
-    <td>16:40 - 17:00</td>
+    <td>17:20 - 17:30</td>
     <td>Closing Remarks</td>
   </tr>
 </table>
+-->
 
 # Call for Papers
 We invite submissions on topics related to synthetic data for computer vision, including but not limited to:
@@ -181,7 +161,7 @@ We invite submissions on topics related to synthetic data for computer vision, i
 - Deadline for submission: <strong>TBD</strong>
 - Notification of acceptance: <strong>TBD</strong>
 - Camera Ready submission deadline: <strong>TBD</strong>
-- Workshop date: <strong>June 2026 (Full day)</strong>
+- Workshop date: <strong>June 2026 (Half day)</strong>
 
 # Related Workshops
 - <a href="./cvpr2025.html">Synthetic Data for Computer Vision @ CVPR 2025</a>
