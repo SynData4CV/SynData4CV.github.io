@@ -151,14 +151,17 @@ We invite submissions on topics related to synthetic data for computer vision, i
 - Ethical considerations and bias mitigation in synthetic data generation
 - Efficient and scalable synthetic data generation pipelines
 
-**Submission Guidelines:**
-- Papers should be formatted according to the CVPR 2026 template
-- Maximum 8 pages (excluding references)
-- Submissions should be made through OpenReview (link TBD)
-- All submissions will be double-blind reviewed
+<strong>Submission Guidelines:</strong>
+<ul>
+<li>Papers should be formatted according to the CVPR 2026 template</li>
+<li>Short papers: 4 pages (excluding references); Long papers: 8 pages (excluding references)</li>
+<li>Submissions should be made through OpenReview (link TBD)</li>
+<li>All submissions will be double-blind reviewed</li>
+<li><strong>Submissions must be non-arXiv (not posted on arXiv before the submission deadline)</strong></li>
+</ul>
 
 # Important Workshop Dates
-- Deadline for submission: <strong>TBD</strong>
+- Deadline for submission: <strong>March 12, 2026</strong>
 - Notification of acceptance: <strong>TBD</strong>
 - Camera Ready submission deadline: <strong>TBD</strong>
 - Workshop date: <strong>June 2026 (Half day)</strong>
