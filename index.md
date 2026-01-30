@@ -157,7 +157,7 @@ We invite submissions on topics related to synthetic data for computer vision, i
 <li>Short papers: 4 pages (excluding references); Long papers: 8 pages (excluding references)</li>
 <li>Submissions should be made through OpenReview (link TBD)</li>
 <li>All submissions will be double-blind reviewed</li>
-<li><strong>Submissions must be non-arXiv (not posted on arXiv before the submission deadline)</strong></li>
+<li><strong>Accepted papers will NOT be included in CVPR proceedings, so there are no double submission concerns.</strong></li>
 </ul>
 
 # Important Workshop Dates
