@@ -155,13 +155,14 @@ We invite submissions on topics related to synthetic data for computer vision, i
 <ul>
 <li>Papers should be formatted according to the CVPR 2026 template</li>
 <li>Short papers: 4 pages (excluding references); Long papers: 8 pages (excluding references)</li>
-<li>Submissions should be made through OpenReview (link TBD)</li>
+<li>Submissions should be made through <a href="https://openreview.net/group?id=thecvf.com/CVPR/2026/Workshop/SynData4CV">OpenReview</a></li>
 <li>All submissions will be double-blind reviewed</li>
 <li><strong>Accepted papers will NOT be included in CVPR proceedings, so there are no double submission concerns.</strong></li>
 </ul>
 
 # Important Workshop Dates
-- Deadline for submission: <strong>March 12, 2026</strong>
+- Submission opens: <strong>February 25, 2026</strong>
+- Submission deadline: <strong>March 13, 2026 (11:59 AM UTC)</strong>
 - Notification of acceptance: <strong>TBD</strong>
 - Camera Ready submission deadline: <strong>TBD</strong>
 - Workshop date: <strong>June 2026 (Half day)</strong>
