@@ -162,7 +162,7 @@ We invite submissions on topics related to synthetic data for computer vision, i
 
 # Important Workshop Dates
 - Submission opens: <strong>February 25, 2026</strong>
-- Submission deadline: <strong>March 13, 2026 (11:59 AM UTC)</strong>
+- Submission deadline: <strong>March 17, 2026 (11:59 AM UTC)</strong>
 - Notification of acceptance: <strong>TBD</strong>
 - Camera Ready submission deadline: <strong>TBD</strong>
 - Workshop date: <strong>June 2026 (Half day)</strong>
