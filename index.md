@@ -3,8 +3,8 @@ layout: default
 title: 3rd Synthetic Data for Computer Vision - CVPR 2026
 description:
   - CVPR 2026 Workshop
-  - June 2026
-  - Denver, CO, United States
+  - June 4, 2026 (Afternoon)
+  - Room 607, Denver, CO, United States
 buttons:
   Overview: './index.html'
   Invited Speakers: './index.html#invited-speakers'
@@ -105,7 +105,7 @@ TBD
 TBD
 
 <!--
-<br><b>Workshop date: June 2026 (Half day)</b><br><b>Location: TBD</b>
+<br><b>Workshop date: June 4, 2026, Afternoon (Half day)</b><br><b>Location: Room 607</b>
 <table>
   <tr>
     <td>13:30 - 13:40</td>
@@ -165,7 +165,7 @@ We invite submissions on topics related to synthetic data for computer vision, i
 - Submission deadline: <strong>March 17, 2026 (11:59 AM UTC)</strong>
 - Notification of acceptance: <strong>TBD</strong>
 - Camera Ready submission deadline: <strong>TBD</strong>
-- Workshop date: <strong>June 2026 (Half day)</strong>
+- Workshop date: <strong>June 4, 2026, Afternoon (Half day), Room 607</strong>
 
 # Related Workshops
 - <a href="./cvpr2025.html">Synthetic Data for Computer Vision @ CVPR 2025</a>
