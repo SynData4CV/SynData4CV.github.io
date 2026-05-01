@@ -45,9 +45,6 @@ This workshop aims to provide a forum for discussion and encouragement of furthe
 </div>
 
 # Invited Speakers
-TBD
-
-<!--
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
 
   <div style="width:45%; margin: 1%;">
@@ -67,14 +64,6 @@ TBD
   </div>
 
   <div style="width:45%; margin: 1%;">
-    <a href="https://nupurkmr9.github.io/">
-      <img alt="Nupur Kumari" src="pics/speakers/nupur.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
-    </a><br>
-    <a href="https://nupurkmr9.github.io/">Nupur Kumari</a><br>
-    Carnegie Mellon University
-  </div>
-
-  <div style="width:45%; margin: 1%;">
     <a href="https://limanling.github.io/">
       <img alt="Manling Li" src="pics/speakers/manling.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
     </a><br>
@@ -90,16 +79,7 @@ TBD
     Cornell Tech
   </div>
 
-  <div style="width:45%; margin: 1%;">
-    <a href="http://web.mit.edu/torralba/www/">
-      <img alt="Antonio Torralba" src="pics/speakers/antonio.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
-    </a><br>
-    <a href="http://web.mit.edu/torralba/www/">Antonio Torralba</a><br>
-    Massachusetts Institute of Technology
-  </div>
-
 </div>
--->
 
 # Schedule
 TBD
