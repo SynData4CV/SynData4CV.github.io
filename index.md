@@ -64,6 +64,14 @@ This workshop aims to provide a forum for discussion and encouragement of furthe
   </div>
 
   <div style="width:45%; margin: 1%;">
+    <a href="https://nupurkmr9.github.io/">
+      <img alt="Nupur Kumari" src="pics/speakers/nupur.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
+    </a><br>
+    <a href="https://nupurkmr9.github.io/">Nupur Kumari</a><br>
+    Carnegie Mellon University
+  </div>
+
+  <div style="width:45%; margin: 1%;">
     <a href="https://limanling.github.io/">
       <img alt="Manling Li" src="pics/speakers/manling.jpg" height="200" width="200" style="border-radius: 50%; object-fit: cover;">
     </a><br>
@@ -82,45 +90,45 @@ This workshop aims to provide a forum for discussion and encouragement of furthe
 </div>
 
 # Schedule
-TBD
-
-<!--
 <br><b>Workshop date: June 4, 2026, Afternoon (Half day)</b><br><b>Location: Room 607</b>
 <table>
   <tr>
-    <td>13:30 - 13:40</td>
+    <td>1:00 PM - 1:10 PM</td>
     <td>Opening Remarks</td>
   </tr>
   <tr>
-    <td>13:40 - 14:20</td>
-    <td>Invited Talk 1 (30 min talk / 10 min Q&A)</td>
+    <td>1:10 PM - 1:45 PM</td>
+    <td>Invited Talk: Manling Li</td>
   </tr>
   <tr>
-    <td>14:20 - 15:00</td>
-    <td>Invited Talk 2 (30 min talk / 10 min Q&A)</td>
+    <td>1:45 PM - 2:20 PM</td>
+    <td>Invited Talk: Jia Deng</td>
   </tr>
   <tr>
-    <td>15:00 - 15:30</td>
-    <td>Coffee Break + Poster Session</td>
+    <td>2:20 PM - 2:55 PM</td>
+    <td>Invited Talk: Georgia Gkioxari</td>
   </tr>
   <tr>
-    <td>15:30 - 16:10</td>
-    <td>Invited Talk 3 (30 min talk / 10 min Q&A)</td>
+    <td>2:55 PM - 3:10 PM</td>
+    <td>Break</td>
   </tr>
   <tr>
-    <td>16:10 - 16:50</td>
-    <td>Invited Talk 4 (30 min talk / 10 min Q&A)</td>
+    <td>3:10 PM - 3:45 PM</td>
+    <td>Invited Talk: Andrew Owens</td>
   </tr>
   <tr>
-    <td>16:50 - 17:20</td>
-    <td>Panel Discussion</td>
+    <td>3:45 PM - 4:20 PM</td>
+    <td>Invited Talk: Nupur Kumari</td>
   </tr>
   <tr>
-    <td>17:20 - 17:30</td>
+    <td>4:20 PM - 4:30 PM</td>
     <td>Closing Remarks</td>
   </tr>
+  <tr>
+    <td>4:30 PM - 5:30 PM</td>
+    <td>Poster Session</td>
+  </tr>
 </table>
--->
 
 # Call for Papers
 We invite submissions on topics related to synthetic data for computer vision, including but not limited to:
