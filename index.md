@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 3rd Synthetic Data for Computer Vision @ CVPR 2026
+title: Synthetic Data for Computer Vision @ CVPR 2026
 description:
-  - CVPR 2026 Workshop · 3rd Edition
+  - 3rd Workshop · CVPR 2026
   - June 4, 2026 (Afternoon)
   - Room 607, Denver, CO, United States
 buttons:
