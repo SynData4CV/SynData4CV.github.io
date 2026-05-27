@@ -143,30 +143,8 @@ h3 { font-size: 1.2rem; }
   font-size: 0.95rem;
   color: var(--c-text);
   letter-spacing: -0.01em;
-  display: inline-flex;
-  align-items: center;
-  gap: 0.55rem;
 }
-.site-nav__brand:hover { color: var(--c-text); }
-
-.site-nav__brand .brand-mark {
-  width: 26px; height: 26px;
-  border-radius: 7px;
-  background: var(--grad-primary);
-  display: inline-block;
-  position: relative;
-}
-.site-nav__brand .brand-mark::after {
-  content: "S";
-  position: absolute; inset: 0;
-  color: #fff;
-  font-weight: 700;
-  font-size: 0.85rem;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-family: var(--f-sans);
-}
+.site-nav__brand:hover { color: var(--c-primary); }
 
 .site-nav__links {
   list-style: none;
