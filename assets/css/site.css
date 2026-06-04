@@ -544,6 +544,62 @@ h3 { font-size: 1.2rem; }
   font-variant-numeric: tabular-nums;
 }
 
+
+.poster-board-assignments {
+  margin: 1rem 0 1.5rem;
+  border: 1px solid var(--c-border-soft);
+  border-radius: var(--r-lg);
+  background: var(--c-surface);
+  overflow: hidden;
+}
+.poster-board-assignments summary {
+  cursor: pointer;
+  padding: 0.95rem 1.1rem;
+  font-weight: 700;
+  color: var(--c-primary);
+}
+.poster-board-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 0.75rem;
+  padding: 0 1rem 1rem;
+}
+.poster-board {
+  border: 1px solid var(--c-border-soft);
+  border-radius: var(--r-md);
+  padding: 0.85rem;
+  background: #fff;
+}
+.poster-board__number {
+  font-weight: 700;
+  color: var(--c-primary);
+  margin-bottom: 0.45rem;
+}
+.poster-board__papers {
+  margin: 0;
+  padding-left: 1.1rem;
+}
+.poster-board__papers li + li {
+  margin-top: 0.65rem;
+}
+.poster-board__title {
+  font-size: 0.9rem;
+  font-weight: 600;
+  line-height: 1.35;
+  color: var(--c-text);
+}
+.poster-board__authors {
+  margin-top: 0.15rem;
+  font-size: 0.78rem;
+  line-height: 1.35;
+  color: var(--c-muted);
+}
+.poster-board__empty {
+  font-size: 0.85rem;
+  color: var(--c-muted);
+  font-style: italic;
+}
+
 /* Awards */
 .award {
   padding: 1.25rem 1.5rem;
