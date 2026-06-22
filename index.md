@@ -187,7 +187,7 @@ This workshop aims to provide a forum for discussion and encouragement of furthe
 <h2 id="accepted-papers">Accepted Papers <small style="font-weight:500; font-size:1rem; color:var(--c-muted); margin-left:0.5rem;">· 54 papers, sorted alphabetically · poster boards 203–232</small></h2>
 
 <div class="prose">
-  <p><strong>OpenReview:</strong> Accepted papers are also available on the <a href="https://openreview.net/group?id=thecvf.com/CVPR/2026/Workshop/SynData4CV">SynData4CV 2026 OpenReview page</a>.</p>
+  <p><strong>OpenReview:</strong> Accepted papers are also available on the <a href="https://openreview.net/group?id=thecvf.com/CVPR/2026/Workshop/SynData4CV#tab-accepted-papers">SynData4CV 2026 OpenReview accepted papers page</a>.</p>
   <p><strong>Poster assignment:</strong> Posters are assigned alphabetically, two papers per board. Please use the board number shown next to your paper title.</p>
 </div>
 
