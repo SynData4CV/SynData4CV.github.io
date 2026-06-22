@@ -601,32 +601,93 @@ h3 { font-size: 1.2rem; }
 }
 
 /* Awards */
-.award {
-  padding: 1.25rem 1.5rem;
-  margin-bottom: 1rem;
+.awards-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.1rem;
+  margin-bottom: 2.5rem;
+}
+
+.award-group {
+  border: 1px solid var(--c-border-soft);
   border-radius: var(--r-lg);
-  border: 1px solid var(--c-border);
-  background: var(--grad-soft);
-  position: relative;
+  background: var(--c-surface);
+  box-shadow: var(--shadow-sm);
+  overflow: hidden;
 }
-.award::before {
-  content: "★";
-  position: absolute;
-  top: 1rem;
-  right: 1.25rem;
-  font-size: 1.4rem;
-  color: var(--c-warning);
-}
-.award__label {
+
+.award-group__header {
+  padding: 0.8rem 1rem;
+  border-bottom: 1px solid var(--c-border-soft);
+  background: linear-gradient(135deg, #FAF8FF 0%, #F5F2FC 100%);
+  color: var(--c-primary);
   font-size: 0.78rem;
-  font-weight: 700;
+  font-weight: 800;
   letter-spacing: 0.08em;
   text-transform: uppercase;
-  color: var(--c-primary);
-  margin-bottom: 0.5rem;
 }
-.award__title { font-weight: 600; color: var(--c-text); margin-bottom: 0.25rem; }
-.award__authors { font-size: 0.9rem; color: var(--c-muted); }
+
+.award-item {
+  display: grid;
+  grid-template-columns: 6.6rem minmax(0, 1fr);
+  gap: 0.95rem;
+  padding: 1rem;
+}
+
+.award-item + .award-item { border-top: 1px solid var(--c-border-soft); }
+
+.award-item__rank {
+  align-self: start;
+  justify-self: start;
+  border-radius: var(--r-pill);
+  padding: 0.4rem 0.55rem;
+  background: var(--c-accent-soft);
+  color: var(--c-primary-2);
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  line-height: 1;
+  white-space: nowrap;
+  text-transform: uppercase;
+}
+
+.award-item--winner .award-item__rank {
+  color: #3B2710;
+  background: linear-gradient(135deg, #F7D79B 0%, #E0A458 100%);
+}
+
+.award-item__title {
+  color: var(--c-text);
+  font-size: 1rem;
+  font-weight: 700;
+  letter-spacing: -0.012em;
+  line-height: 1.35;
+  margin-bottom: 0.45rem;
+}
+
+.award-item__authors {
+  color: var(--c-text-soft);
+  font-size: 0.9rem;
+  line-height: 1.45;
+  margin-bottom: 0.2rem;
+}
+
+.award-item__affiliation {
+  color: var(--c-muted);
+  font-size: 0.83rem;
+  line-height: 1.4;
+}
+
+@media (max-width: 860px) {
+  .awards-grid { grid-template-columns: 1fr; }
+}
+
+@media (max-width: 520px) {
+  .award-item {
+    grid-template-columns: 1fr;
+    gap: 0.55rem;
+  }
+}
 
 /* ---------- Important dates ---------- */
 .dates {

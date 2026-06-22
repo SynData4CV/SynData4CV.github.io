@@ -142,25 +142,46 @@ This workshop aims to provide a forum for discussion and encouragement of furthe
 
 <h2 id="awards">Awards</h2>
 
-<div class="award">
-  <div class="award__label">Winner · Best Long Paper</div>
-  <div class="award__title">Beyond Objects: Contextual Synthetic Data Generation for Fine-Grained Classification</div>
-  <div class="award__authors">William Yang, Xindi Wu, Zhiwei Deng, Esin Tureci, Olga Russakovsky · Princeton University</div>
-</div>
-<div class="award">
-  <div class="award__label">Runner-up · Best Long Paper</div>
-  <div class="award__title">Sequential Dataset for Satellite Pose Estimation and a Frequency-Space Neural Operator for HIL-Free Generalization Benchmarking</div>
-  <div class="award__authors">Woojin Cho, Junghwan Park, Steve Andreas Immanuel, Junmin Park, Seokhyun Chin, Jiayun Wang · TelePIX, California Institute of Technology, Georgia Institute of Technology</div>
-</div>
-<div class="award">
-  <div class="award__label">Winner · Best Short Paper</div>
-  <div class="award__title">Beyond Raw Signals: Undecoded Generative Latents as Privileged Synthetic Data</div>
-  <div class="award__authors">Cristian Sbrolli, Nicolas Michel, Matteo Matteucci, Toshihiko Yamasaki · Politecnico di Milano &amp; The University of Tokyo</div>
-</div>
-<div class="award">
-  <div class="award__label">Runner-up · Best Short Paper</div>
-  <div class="award__title">WireSeg-32K: A Physics-Grounded Synthetic Dataset for Wire Instance Segmentation</div>
-  <div class="award__authors">Zilin Dai, Lehong Wang, Yi Yang, Xiang Fei · Northeastern University</div>
+<div class="awards-grid">
+  <section class="award-group">
+    <div class="award-group__header">Best Long Paper</div>
+    <article class="award-item award-item--winner">
+      <span class="award-item__rank">Winner</span>
+      <div class="award-item__body">
+        <div class="award-item__title">Beyond Objects: Contextual Synthetic Data Generation for Fine-Grained Classification</div>
+        <div class="award-item__authors">William Yang, Xindi Wu, Zhiwei Deng, Esin Tureci, Olga Russakovsky</div>
+        <div class="award-item__affiliation">Princeton University</div>
+      </div>
+    </article>
+    <article class="award-item award-item--runner-up">
+      <span class="award-item__rank">Runner-up</span>
+      <div class="award-item__body">
+        <div class="award-item__title">Sequential Dataset for Satellite Pose Estimation and a Frequency-Space Neural Operator for HIL-Free Generalization Benchmarking</div>
+        <div class="award-item__authors">Woojin Cho, Junghwan Park, Steve Andreas Immanuel, Junmin Park, Seokhyun Chin, Jiayun Wang</div>
+        <div class="award-item__affiliation">TelePIX, California Institute of Technology, Georgia Institute of Technology</div>
+      </div>
+    </article>
+  </section>
+
+  <section class="award-group">
+    <div class="award-group__header">Best Short Paper</div>
+    <article class="award-item award-item--winner">
+      <span class="award-item__rank">Winner</span>
+      <div class="award-item__body">
+        <div class="award-item__title">Beyond Raw Signals: Undecoded Generative Latents as Privileged Synthetic Data</div>
+        <div class="award-item__authors">Cristian Sbrolli, Nicolas Michel, Matteo Matteucci, Toshihiko Yamasaki</div>
+        <div class="award-item__affiliation">Politecnico di Milano &amp; The University of Tokyo</div>
+      </div>
+    </article>
+    <article class="award-item award-item--runner-up">
+      <span class="award-item__rank">Runner-up</span>
+      <div class="award-item__body">
+        <div class="award-item__title">WireSeg-32K: A Physics-Grounded Synthetic Dataset for Wire Instance Segmentation</div>
+        <div class="award-item__authors">Zilin Dai, Lehong Wang, Yi Yang, Xiang Fei</div>
+        <div class="award-item__affiliation">Northeastern University</div>
+      </div>
+    </article>
+  </section>
 </div>
 
 <h2 id="accepted-papers">Accepted Papers <small style="font-weight:500; font-size:1rem; color:var(--c-muted); margin-left:0.5rem;">· 54 papers, sorted alphabetically · poster boards 203–232</small></h2>
