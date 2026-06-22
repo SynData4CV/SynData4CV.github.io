@@ -143,6 +143,16 @@ This workshop aims to provide a forum for discussion and encouragement of furthe
 <h2 id="awards">Awards</h2>
 
 <div class="award">
+  <div class="award__label">Winner · Best Long Paper</div>
+  <div class="award__title">Beyond Objects: Contextual Synthetic Data Generation for Fine-Grained Classification</div>
+  <div class="award__authors">William Yang, Xindi Wu, Zhiwei Deng, Esin Tureci, Olga Russakovsky · Princeton University</div>
+</div>
+<div class="award">
+  <div class="award__label">Runner-up · Best Long Paper</div>
+  <div class="award__title">Sequential Dataset for Satellite Pose Estimation and a Frequency-Space Neural Operator for HIL-Free Generalization Benchmarking</div>
+  <div class="award__authors">Woojin Cho, Junghwan Park, Steve Andreas Immanuel, Junmin Park, Seokhyun Chin, Jiayun Wang · TelePIX, California Institute of Technology, Georgia Institute of Technology</div>
+</div>
+<div class="award">
   <div class="award__label">Winner · Best Short Paper</div>
   <div class="award__title">Beyond Raw Signals: Undecoded Generative Latents as Privileged Synthetic Data</div>
   <div class="award__authors">Cristian Sbrolli, Nicolas Michel, Matteo Matteucci, Toshihiko Yamasaki · Politecnico di Milano &amp; The University of Tokyo</div>
@@ -156,6 +166,7 @@ This workshop aims to provide a forum for discussion and encouragement of furthe
 <h2 id="accepted-papers">Accepted Papers <small style="font-weight:500; font-size:1rem; color:var(--c-muted); margin-left:0.5rem;">· 54 papers, sorted alphabetically · poster boards 203–232</small></h2>
 
 <div class="prose">
+  <p><strong>OpenReview:</strong> Accepted papers are also available on the <a href="https://openreview.net/group?id=thecvf.com/CVPR/2026/Workshop/SynData4CV">SynData4CV 2026 OpenReview page</a>.</p>
   <p><strong>Poster assignment:</strong> Posters are assigned alphabetically, two papers per board. Please use the board number shown next to your paper title.</p>
 </div>
 
@@ -418,7 +429,7 @@ This workshop aims to provide a forum for discussion and encouragement of furthe
         </li>
         <li>
           <div class="poster-board__title">Sequential Dataset for Satellite Pose Estimation and a Frequency-Space Neural Operator for HIL-Free Generalization Benchmarking</div>
-          <div class="poster-board__authors">Woojin Cho, Junghwan Park, Steve Andreas Immanuel, JunminPark, Seokhyun Chin, Jiayun Wang</div>
+          <div class="poster-board__authors">Woojin Cho, Junghwan Park, Steve Andreas Immanuel, Junmin Park, Seokhyun Chin, Jiayun Wang</div>
         </li>
       </ol>
     </div>
@@ -687,7 +698,7 @@ This workshop aims to provide a forum for discussion and encouragement of furthe
   </li>
   <li class="paper">
     <div class="paper__title">Sequential Dataset for Satellite Pose Estimation and a Frequency-Space Neural Operator for HIL-Free Generalization Benchmarking<span class="paper__poster">#222</span></div>
-    <div class="paper__authors">Woojin Cho, Junghwan Park, Steve Andreas Immanuel, JunminPark, Seokhyun Chin, Jiayun Wang</div>
+    <div class="paper__authors">Woojin Cho, Junghwan Park, Steve Andreas Immanuel, Junmin Park, Seokhyun Chin, Jiayun Wang</div>
   </li>
   <li class="paper">
     <div class="paper__title">Sim-to-Real Metrology: Calibrated Digital Twins for Fringe Projection Profilometry<span class="paper__poster">#223</span></div>
