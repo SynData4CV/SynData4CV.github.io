@@ -140,20 +140,17 @@ This workshop aims to provide a forum for discussion and encouragement of furthe
   </li>
 </ol>
 
-
 <h2 id="awards">Awards</h2>
 
 <div class="award">
   <div class="award__label">Winner · Best Short Paper</div>
   <div class="award__title">Beyond Raw Signals: Undecoded Generative Latents as Privileged Synthetic Data</div>
-  <div class="award__authors">Cristian Sbrolli, Nicolas Michel, Matteo Matteucci, Toshihiko Yamasaki</div>
-  <div class="award__authors"><strong>Affiliations:</strong> Politecnico di Milano; The University of Tokyo</div>
+  <div class="award__authors">Cristian Sbrolli, Nicolas Michel, Matteo Matteucci, Toshihiko Yamasaki · Politecnico di Milano &amp; The University of Tokyo</div>
 </div>
 <div class="award">
   <div class="award__label">Runner-up · Best Short Paper</div>
   <div class="award__title">WireSeg-32K: A Physics-Grounded Synthetic Dataset for Wire Instance Segmentation</div>
-  <div class="award__authors">Zilin Dai, Lehong Wang, Yi Yang, Xiang Fei</div>
-  <div class="award__authors"><strong>Affiliation:</strong> Northeastern University</div>
+  <div class="award__authors">Zilin Dai, Lehong Wang, Yi Yang, Xiang Fei · Northeastern University</div>
 </div>
 
 <h2 id="accepted-papers">Accepted Papers <small style="font-weight:500; font-size:1rem; color:var(--c-muted); margin-left:0.5rem;">· 54 papers, sorted alphabetically · poster boards 203–232</small></h2>
